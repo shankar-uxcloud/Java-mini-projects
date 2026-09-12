@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Currency Converter</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="background"></div>
+
+    <main class="container">
+
+        <section class="converter-card">
+
+            <!-- Header -->
+            <div class="header">
+                <div class="icon">💱</div>
+
+                <div>
+                    <h1>Currency Converter</h1>
+                    <p>Convert currencies quickly and easily</p>
+                </div>
+            </div>
+
+            <!-- Converter -->
+            <div class="converter">
+
+                <!-- Amount -->
+                <div class="input-group">
+                    <label for="amount">Amount</label>
+
+                    <div class="amount-box">
+                        <span id="amountSymbol">$</span>
+
+                        <input
+                            type="number"
+                            id="amount"
+                            placeholder="Enter amount"
+                            min="0"
+                            step="any"
+                        >
+                    </div>
+                </div>
+
+                <!-- Currency Selection -->
+                <div class="currency-section">
+
+                    <div class="input-group">
+                        <label for="fromCurrency">From</label>
+
+                        <select id="fromCurrency">
+                            <option value="USD">🇺🇸 USD - US Dollar</option>
+                            <option value="INR">🇮🇳 INR - Indian Rupee</option>
+                            <option value="EUR">🇪🇺 EUR - Euro</option>
+                            <option value="GBP">🇬🇧 GBP - British Pound</option>
+                            <option value="JPY">🇯🇵 JPY - Japanese Yen</option>
+                            <option value="AUD">🇦🇺 AUD - Australian Dollar</option>
+                        </select>
+                    </div>
+
+                    <!-- Swap -->
+                    <button
+                        class="swap-button"
+                        id="swapButton"
+                        title="Swap currencies"
+                    >
+                        ⇄
+                    </button>
+
+                    <div class="input-group">
+                        <label for="toCurrency">To</label>
+
+                        <select id="toCurrency">
+                            <option value="INR">🇮🇳 INR - Indian Rupee</option>
+                            <option value="USD">🇺🇸 USD - US Dollar</option>
+                            <option value="EUR">🇪🇺 EUR - Euro</option>
+                            <option value="GBP">🇬🇧 GBP - British Pound</option>
+                            <option value="JPY">🇯🇵 JPY - Japanese Yen</option>
+                            <option value="AUD">🇦🇺 AUD - Australian Dollar</option>
+                        </select>
+                    </div>
+
+                </div>
+
+                <!-- Convert Button -->
+                <button class="convert-button" id="convertButton">
+                    Convert Currency
+                    <span>→</span>
+                </button>
+
+                <!-- Error -->
+                <p class="error-message" id="errorMessage"></p>
+
+                <!-- Result -->
+                <div class="result-card" id="resultCard">
+
+                    <p class="result-label">Converted Amount</p>
+
+                    <h2 id="result">
+                        0.00
+                    </h2>
+
+                    <p id="resultCurrency">INR</p>
+
+                    <div class="rate-info">
+                        <span>Exchange Rate</span>
+                        <strong id="exchangeRate">—</strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Footer -->
+            <div class="footer">
+                <span>Predefined exchange rates</span>
+                <span>•</span>
+                <span>USD, INR, EUR, GBP, JPY, AUD</span>
+            </div>
+
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

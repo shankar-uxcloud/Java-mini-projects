@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Password Generator</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="background"></div>
+
+    <main class="container">
+
+        <section class="generator-card">
+
+            <!-- Header -->
+            <div class="header">
+
+                <div class="lock-icon">
+                    🔐
+                </div>
+
+                <div>
+                    <h1>Password Generator</h1>
+                    <p>Create a strong and random password</p>
+                </div>
+
+            </div>
+
+
+            <!-- Password Display -->
+            <div class="password-section">
+
+                <label>Generated Password</label>
+
+                <div class="password-box">
+
+                    <input
+                        type="text"
+                        id="password"
+                        value=""
+                        placeholder="Your password will appear here"
+                        readonly
+                    >
+
+                    <button
+                        id="copyButton"
+                        class="copy-button"
+                        title="Copy password"
+                    >
+                        Copy
+                    </button>
+
+                </div>
+
+                <div class="strength-row">
+
+                    <span>Password strength</span>
+
+                    <strong id="strengthText">
+                        —
+                    </strong>
+
+                </div>
+
+                <div class="strength-bar">
+                    <div id="strengthBar"></div>
+                </div>
+
+            </div>
+
+
+            <!-- Length -->
+            <div class="length-section">
+
+                <div class="section-title">
+
+                    <label for="length">
+                        Password Length
+                    </label>
+
+                    <strong id="lengthValue">
+                        12
+                    </strong>
+
+                </div>
+
+                <input
+                    type="range"
+                    id="length"
+                    min="4"
+                    max="100"
+                    value="12"
+                >
+
+                <div class="range-labels">
+                    <span>4</span>
+                    <span>100</span>
+                </div>
+
+            </div>
+
+
+            <!-- Character Options -->
+            <div class="options-section">
+
+                <div class="section-heading">
+                    Character Types
+                </div>
+
+                <label class="option">
+                    <input
+                        type="checkbox"
+                        id="uppercase"
+                        checked
+                    >
+
+                    <span class="checkmark"></span>
+
+                    <span class="option-text">
+                        <strong>Uppercase</strong>
+                        <small>A-Z</small>
+                    </span>
+                </label>
+
+
+                <label class="option">
+                    <input
+                        type="checkbox"
+                        id="lowercase"
+                        checked
+                    >
+
+                    <span class="checkmark"></span>
+
+                    <span class="option-text">
+                        <strong>Lowercase</strong>
+                        <small>a-z</small>
+                    </span>
+                </label>
+
+
+                <label class="option">
+                    <input
+                        type="checkbox"
+                        id="numbers"
+                        checked
+                    >
+
+                    <span class="checkmark"></span>
+
+                    <span class="option-text">
+                        <strong>Numbers</strong>
+                        <small>0-9</small>
+                    </span>
+                </label>
+
+
+                <label class="option">
+                    <input
+                        type="checkbox"
+                        id="special"
+                        checked
+                    >
+
+                    <span class="checkmark"></span>
+
+                    <span class="option-text">
+                        <strong>Special Characters</strong>
+                        <small>!@#$%</small>
+                    </span>
+                </label>
+
+            </div>
+
+
+            <!-- Generate Button -->
+            <button
+                id="generateButton"
+                class="generate-button"
+            >
+                Generate Password
+                <span>↻</span>
+            </button>
+
+
+            <!-- Error -->
+            <p
+                id="errorMessage"
+                class="error-message"
+            ></p>
+
+
+            <!-- Footer -->
+            <div class="footer">
+
+                <span>🔒 Generated locally in your browser</span>
+
+                <span>•</span>
+
+                <span>No password is sent anywhere</span>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
