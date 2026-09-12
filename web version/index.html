@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Number Guessing Game</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="game-container">
+
+        <div class="game-card">
+
+            <div class="game-icon">🎯</div>
+
+            <h1>Number Guessing Game</h1>
+
+            <p class="subtitle">
+                Test your guessing skills!
+            </p>
+
+            <!-- MODE -->
+            <div class="section">
+
+                <h2>Choose Mode</h2>
+
+                <div class="mode-buttons">
+
+                    <button class="mode-btn active" id="computerMode">
+                        🤖 Computer
+                        <span>Computer chooses</span>
+                    </button>
+
+                    <button class="mode-btn" id="twoPlayerMode">
+                        👥 Two Player
+                        <span>Player chooses</span>
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <!-- DIFFICULTY -->
+
+            <div class="section" id="difficultySection">
+
+                <h2>Difficulty</h2>
+
+                <div class="difficulty-buttons">
+
+                    <button class="difficulty-btn active" data-range="50">
+                        Easy
+                        <span>1 - 50</span>
+                    </button>
+
+                    <button class="difficulty-btn" data-range="100">
+                        Medium
+                        <span>1 - 100</span>
+                    </button>
+
+                    <button class="difficulty-btn" data-range="1000">
+                        Hard
+                        <span>1 - 1000</span>
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <!-- TWO PLAYER SECRET NUMBER -->
+
+            <div id="secretSection" class="hidden">
+
+                <h2>Player 1: Set Secret Number</h2>
+
+                <div class="input-section">
+
+                    <input
+                        type="password"
+                        id="secretInput"
+                        placeholder="Enter secret number"
+                    >
+
+                    <button id="setSecretButton">
+                        SET
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <!-- RANGE -->
+
+            <p class="range-text" id="rangeText">
+                Guess a number between
+                <strong>1</strong> and
+                <strong>50</strong>
+            </p>
+
+
+            <!-- GUESS AREA -->
+
+            <div class="input-section">
+
+                <input
+                    type="number"
+                    id="guessInput"
+                    placeholder="Enter your guess"
+                >
+
+                <button id="guessButton">
+                    GUESS
+                </button>
+
+            </div>
+
+
+            <!-- MESSAGE -->
+
+            <div id="message" class="message">
+                Make your first guess!
+            </div>
+
+
+            <!-- STATS -->
+
+            <div class="stats">
+
+                <div class="stat-box">
+
+                    <span>Attempts</span>
+
+                    <strong id="attempts">
+                        0
+                    </strong>
+
+                </div>
+
+
+                <div class="stat-box">
+
+                    <span>Range</span>
+
+                    <strong id="rangeDisplay">
+                        1-50
+                    </strong>
+
+                </div>
+
+            </div>
+
+
+            <!-- NEW GAME -->
+
+            <button id="restartButton" class="restart-btn">
+                🔄 New Game
+            </button>
+
+        </div>
+
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>

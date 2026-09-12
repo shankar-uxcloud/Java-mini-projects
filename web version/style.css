@@ -1,0 +1,536 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    min-height: 100vh;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    background:
+        radial-gradient(
+            circle at top left,
+            #4f46e5,
+            transparent 35%
+        ),
+
+        radial-gradient(
+            circle at bottom right,
+            #9333ea,
+            transparent 35%
+        ),
+
+        #111827;
+
+    color: white;
+
+    padding: 20px;
+}
+
+
+.game-container {
+
+    width: 100%;
+
+    max-width: 600px;
+}
+
+
+.game-card {
+
+    background: rgba(255, 255, 255, 0.10);
+
+    border: 1px solid rgba(255, 255, 255, 0.20);
+
+    border-radius: 25px;
+
+    padding: 40px;
+
+    text-align: center;
+
+    backdrop-filter: blur(20px);
+
+    box-shadow:
+        0 25px 60px rgba(0, 0, 0, 0.45);
+
+    animation: appear 0.7s ease;
+}
+
+
+@keyframes appear {
+
+    from {
+
+        opacity: 0;
+
+        transform: translateY(30px);
+    }
+
+    to {
+
+        opacity: 1;
+
+        transform: translateY(0);
+    }
+}
+
+
+.game-icon {
+
+    font-size: 55px;
+
+    margin-bottom: 10px;
+
+    animation: float 2s infinite ease-in-out;
+}
+
+
+@keyframes float {
+
+    0%, 100% {
+
+        transform: translateY(0);
+    }
+
+    50% {
+
+        transform: translateY(-8px);
+    }
+}
+
+
+h1 {
+
+    font-size: 34px;
+
+    margin-bottom: 10px;
+}
+
+
+.subtitle {
+
+    color: #d1d5db;
+
+    margin-bottom: 30px;
+
+    font-size: 15px;
+}
+
+
+.section {
+
+    margin-bottom: 25px;
+}
+
+
+.section h2,
+#secretSection h2 {
+
+    font-size: 18px;
+
+    margin-bottom: 15px;
+}
+
+
+/* MODE BUTTONS */
+
+.mode-buttons {
+
+    display: flex;
+
+    gap: 10px;
+}
+
+
+.mode-btn {
+
+    flex: 1;
+
+    padding: 15px 10px;
+
+    border: 1px solid rgba(255,255,255,0.2);
+
+    border-radius: 12px;
+
+    background: rgba(255,255,255,0.08);
+
+    color: white;
+
+    cursor: pointer;
+
+    font-size: 15px;
+
+    transition: 0.25s;
+}
+
+
+.mode-btn span {
+
+    display: block;
+
+    font-size: 11px;
+
+    color: #cbd5e1;
+
+    margin-top: 5px;
+}
+
+
+.mode-btn:hover {
+
+    transform: translateY(-3px);
+
+    background: rgba(255,255,255,0.18);
+}
+
+
+.mode-btn.active {
+
+    background: #6366f1;
+
+    border-color: #818cf8;
+
+    box-shadow:
+        0 5px 20px rgba(99,102,241,0.4);
+}
+
+
+/* DIFFICULTY */
+
+.difficulty-buttons {
+
+    display: flex;
+
+    gap: 10px;
+}
+
+
+.difficulty-btn {
+
+    flex: 1;
+
+    padding: 13px 8px;
+
+    border: 1px solid rgba(255,255,255,0.2);
+
+    border-radius: 12px;
+
+    background: rgba(255,255,255,0.08);
+
+    color: white;
+
+    cursor: pointer;
+
+    font-size: 14px;
+
+    transition: 0.25s;
+}
+
+
+.difficulty-btn span {
+
+    display: block;
+
+    font-size: 11px;
+
+    color: #cbd5e1;
+
+    margin-top: 5px;
+}
+
+
+.difficulty-btn:hover {
+
+    transform: translateY(-3px);
+
+    background: rgba(255,255,255,0.18);
+}
+
+
+.difficulty-btn.active {
+
+    background: #6366f1;
+
+    border-color: #818cf8;
+}
+
+
+/* SECRET NUMBER */
+
+#secretSection {
+
+    margin-bottom: 20px;
+}
+
+
+.hidden {
+
+    display: none !important;
+}
+
+
+/* RANGE */
+
+.range-text {
+
+    margin: 20px 0 15px;
+
+    color: #d1d5db;
+}
+
+
+.range-text strong {
+
+    color: white;
+}
+
+
+/* INPUT */
+
+.input-section {
+
+    display: flex;
+
+    gap: 10px;
+
+    margin-bottom: 15px;
+}
+
+
+input {
+
+    flex: 1;
+
+    padding: 15px;
+
+    border: 2px solid rgba(255,255,255,0.15);
+
+    border-radius: 12px;
+
+    outline: none;
+
+    background: rgba(0,0,0,0.25);
+
+    color: white;
+
+    font-size: 16px;
+
+    transition: 0.2s;
+}
+
+
+input::placeholder {
+
+    color: #9ca3af;
+}
+
+
+input:focus {
+
+    border-color: #818cf8;
+
+    box-shadow:
+        0 0 15px rgba(129,140,248,0.3);
+}
+
+
+input:disabled {
+
+    opacity: 0.5;
+
+    cursor: not-allowed;
+}
+
+
+/* BUTTON */
+
+#guessButton,
+#setSecretButton {
+
+    padding: 15px 25px;
+
+    border: none;
+
+    border-radius: 12px;
+
+    background: #6366f1;
+
+    color: white;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition: 0.2s;
+}
+
+
+#guessButton:hover,
+#setSecretButton:hover {
+
+    transform: translateY(-2px);
+
+    background: #818cf8;
+
+    box-shadow:
+        0 8px 20px rgba(99,102,241,0.4);
+}
+
+
+button:disabled {
+
+    opacity: 0.5;
+
+    cursor: not-allowed;
+
+    transform: none !important;
+
+    box-shadow: none !important;
+}
+
+
+/* MESSAGE */
+
+.message {
+
+    margin: 15px 0;
+
+    padding: 15px;
+
+    border-radius: 12px;
+
+    background: rgba(255,255,255,0.08);
+
+    font-weight: bold;
+
+    min-height: 50px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+}
+
+
+/* STATS */
+
+.stats {
+
+    display: flex;
+
+    gap: 15px;
+
+    margin-top: 15px;
+}
+
+
+.stat-box {
+
+    flex: 1;
+
+    background: rgba(255,255,255,0.08);
+
+    padding: 15px;
+
+    border-radius: 12px;
+}
+
+
+.stat-box span {
+
+    display: block;
+
+    font-size: 12px;
+
+    color: #cbd5e1;
+
+    margin-bottom: 5px;
+}
+
+
+.stat-box strong {
+
+    font-size: 20px;
+}
+
+
+/* RESTART */
+
+.restart-btn {
+
+    margin-top: 20px;
+
+    width: 100%;
+
+    padding: 14px;
+
+    border: 1px solid rgba(255,255,255,0.2);
+
+    border-radius: 12px;
+
+    background: rgba(255,255,255,0.08);
+
+    color: white;
+
+    cursor: pointer;
+
+    font-size: 15px;
+
+    transition: 0.2s;
+}
+
+
+.restart-btn:hover {
+
+    background: rgba(255,255,255,0.18);
+
+    transform: translateY(-2px);
+}
+
+
+/* MOBILE */
+
+@media (max-width: 600px) {
+
+    .game-card {
+
+        padding: 25px;
+    }
+
+
+    h1 {
+
+        font-size: 27px;
+    }
+
+
+    .mode-buttons,
+    .difficulty-buttons {
+
+        flex-direction: column;
+    }
+
+
+    .input-section {
+
+        flex-direction: column;
+    }
+
+
+    #guessButton,
+    #setSecretButton {
+
+        width: 100%;
+    }
+}
