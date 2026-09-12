@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta
+        name="description"
+        content="Student Grade Calculator - Calculate total marks, average percentage and grade."
+    >
+
+    <title>Student Grade Calculator</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="app">
+
+        <!-- HEADER -->
+
+        <header class="header">
+
+            <div class="logo">
+                <span>🎓</span>
+            </div>
+
+            <div>
+                <h1>Student Grade Calculator</h1>
+
+                <p>
+                    Calculate your marks, average and grade
+                    <span class="dot">•</span>
+                    instantly
+                </p>
+            </div>
+
+        </header>
+
+
+        <!-- MAIN CARD -->
+
+        <section class="card">
+
+            <!-- STEP 1 -->
+
+            <div class="step">
+
+                <div class="step-number">
+                    01
+                </div>
+
+                <div class="step-content">
+
+                    <h2>Set Your Subjects</h2>
+
+                    <p>
+                        Enter the number of subjects you want to calculate.
+                    </p>
+
+                    <div class="subject-count">
+
+                        <input
+                            type="number"
+                            id="subjectCount"
+                            min="1"
+                            max="20"
+                            placeholder="e.g. 5"
+                            aria-label="Number of subjects"
+                        >
+
+                        <button
+                            id="createSubjects"
+                            class="primary-btn"
+                        >
+                            Create Subjects
+                            <span>→</span>
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- STEP 2 -->
+
+            <div
+                id="marksSection"
+                class="step hidden"
+            >
+
+                <div class="step-number">
+                    02
+                </div>
+
+                <div class="step-content">
+
+                    <div class="section-heading">
+
+                        <div>
+                            <h2>Enter Your Marks</h2>
+
+                            <p>
+                                Enter marks between 0 and 100.
+                            </p>
+                        </div>
+
+                        <span
+                            id="subjectCounter"
+                            class="counter"
+                        >
+                            0 Subjects
+                        </span>
+
+                    </div>
+
+
+                    <div id="marksContainer">
+                    </div>
+
+
+                    <button
+                        id="calculateButton"
+                        class="calculate-btn"
+                    >
+                        <span>📊</span>
+                        Calculate Result
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <!-- MESSAGE -->
+
+            <div
+                id="message"
+                class="message"
+                role="alert"
+            ></div>
+
+
+            <!-- RESULT -->
+
+            <section
+                id="resultSection"
+                class="result hidden"
+            >
+
+                <div class="result-header">
+
+                    <div>
+                        <span class="result-label">
+                            YOUR RESULT
+                        </span>
+
+                        <h2>
+                            Performance Summary
+                        </h2>
+                    </div>
+
+                    <div
+                        id="gradeBadge"
+                        class="grade-badge"
+                    >
+                        A
+                    </div>
+
+                </div>
+
+
+                <!-- STAT CARDS -->
+
+                <div class="stats">
+
+                    <div class="stat">
+
+                        <span class="stat-icon">
+                            📝
+                        </span>
+
+                        <div>
+                            <small>
+                                Total Marks
+                            </small>
+
+                            <strong id="totalMarks">
+                                0
+                            </strong>
+                        </div>
+
+                    </div>
+
+
+                    <div class="stat">
+
+                        <span class="stat-icon">
+                            📈
+                        </span>
+
+                        <div>
+                            <small>
+                                Average
+                            </small>
+
+                            <strong id="average">
+                                0%
+                            </strong>
+                        </div>
+
+                    </div>
+
+
+                    <div class="stat">
+
+                        <span class="stat-icon">
+                            🏆
+                        </span>
+
+                        <div>
+                            <small>
+                                Grade
+                            </small>
+
+                            <strong id="grade">
+                                -
+                            </strong>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- PERFORMANCE -->
+
+                <div class="performance">
+
+                    <div class="performance-title">
+
+                        <span>
+                            Subject Performance
+                        </span>
+
+                        <span>
+                            Marks
+                        </span>
+
+                    </div>
+
+                    <div id="performanceContainer">
+                    </div>
+
+                </div>
+
+
+                <!-- RESULT MESSAGE -->
+
+                <div
+                    id="resultMessage"
+                    class="result-message"
+                >
+                </div>
+
+
+                <!-- RESET -->
+
+                <button
+                    id="resetButton"
+                    class="reset-btn"
+                >
+                    <span>↻</span>
+                    Calculate Again
+                </button>
+
+            </section>
+
+        </section>
+
+
+        <!-- FOOTER -->
+
+        <footer>
+
+            <span>
+                Built with
+                <strong>HTML</strong>,
+                <strong>CSS</strong> &
+                <strong>JavaScript</strong>
+            </span>
+
+            <span class="footer-dot">
+                •
+            </span>
+
+            <span>
+                Student Grade Calculator
+            </span>
+
+        </footer>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
