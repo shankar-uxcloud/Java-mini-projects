@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/badge/React-ATM-61DAFB?style=for-the-badge\&logo=react\&logoColor=111827">
 
-<img src="https://img.shields.io/badge/Internship-Completed-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Internship-7C3AED?style=for-the-badge">
 
 </p>
 
