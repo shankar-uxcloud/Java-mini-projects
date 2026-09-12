@@ -12,7 +12,7 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge\&logo=openjdk\&logoColor=white">
+<img src="https://img.shields.io/badge/Java-18%2B-orange?style=for-the-badge\&logo=openjdk\&logoColor=white">
 
 <img src="https://img.shields.io/badge/Projects-5-00C853?style=for-the-badge">
 
@@ -1978,7 +1978,7 @@ A project should explain not only \*\*what it does\*\*, but also \*\*how it was 
 
 
 
-\## \*\*Shankar Sourav\*\*
+\## \*\* P SHANKAR \*\*
 
 
 
