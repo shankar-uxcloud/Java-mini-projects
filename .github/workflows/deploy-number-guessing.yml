@@ -8,6 +8,7 @@ on:
       - "Number guessing game/web version/**"
       - "student grade calculator/web version/**"
       - "ATM Interface/web version/atm-react/**"
+      - "Currency Converter/web version/**"
       - ".github/workflows/deploy-number-guessing.yml"
   workflow_dispatch:
 
@@ -42,15 +43,18 @@ jobs:
         run: |
           rm -rf site
 
-          mkdir -p "site/number-guessing"
-          mkdir -p "site/student-grade-calculator"
-          mkdir -p "site/atm"
+mkdir -p "site/number-guessing"
+mkdir -p "site/student-grade-calculator"
+mkdir -p "site/atm"
+mkdir -p "site/currency-converter"
 
           cp "GitHub Pages/index.html" "site/index.html"
 
           cp -R "Number guessing game/web version/." "site/number-guessing/"
 
           cp -R "student grade calculator/web version/." "site/student-grade-calculator/"
+
+          cp -R "Currency Converter/web version/." "site/currency-converter/"
 
       - name: Build ATM React app
         working-directory: "ATM Interface/web version/atm-react"
