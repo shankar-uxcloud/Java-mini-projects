@@ -39,7 +39,7 @@ jobs:
         with:
           node-version: 24
 
-            - name: Prepare demo site
+      - name: Prepare demo site
         run: |
           rm -rf site
 
