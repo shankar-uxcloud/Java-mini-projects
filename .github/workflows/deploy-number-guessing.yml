@@ -9,6 +9,7 @@ on:
       - "student grade calculator/web version/**"
       - "ATM Interface/web version/atm-react/**"
       - "Currency Converter/web version/**"
+      - "Password Generator/web version/**"
       - ".github/workflows/deploy-number-guessing.yml"
   workflow_dispatch:
 
@@ -47,6 +48,7 @@ jobs:
           mkdir -p "site/student-grade-calculator"
           mkdir -p "site/atm"
           mkdir -p "site/currency-converter"
+          mkdir -p "site/password-generator"
 
           cp "GitHub Pages/index.html" "site/index.html"
 
@@ -55,6 +57,8 @@ jobs:
           cp -R "student grade calculator/web version/." "site/student-grade-calculator/"
 
           cp -R "Currency Converter/web version/." "site/currency-converter/"
+
+          cp -R "Password Generator/web version/." "site/password-generator/"
 
       - name: Build ATM React app
         working-directory: "ATM Interface/web version/atm-react"
