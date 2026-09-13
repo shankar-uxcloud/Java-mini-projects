@@ -4,8 +4,10 @@ on:
   push:
     branches: ["main"]
     paths:
+      - "GitHub Pages/**"
       - "Number guessing game/web version/**"
       - "student grade calculator/web version/**"
+      - "ATM Interface/web version/atm-react/**"
       - ".github/workflows/deploy-number-guessing.yml"
   workflow_dispatch:
 
@@ -27,25 +29,47 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 24
 
       - name: Prepare demo site
         run: |
           rm -rf site
-          mkdir -p "site/student-grade-calculator"
 
-          cp -R "Number guessing game/web version/." "site/"
+          mkdir -p "site/number-guessing"
+          mkdir -p "site/student-grade-calculator"
+          mkdir -p "site/atm"
+
+          cp "GitHub Pages/index.html" "site/index.html"
+
+          cp -R "Number guessing game/web version/." "site/number-guessing/"
+
           cp -R "student grade calculator/web version/." "site/student-grade-calculator/"
 
+      - name: Build ATM React app
+        working-directory: "ATM Interface/web version/atm-react"
+        run: |
+          npm ci
+          npm run build -- --base=/Java-mini-projects/atm/
+
+      - name: Copy ATM build
+        run: |
+          cp -R "ATM Interface/web version/atm-react/dist/." "site/atm/"
+
       - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: "./site"
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

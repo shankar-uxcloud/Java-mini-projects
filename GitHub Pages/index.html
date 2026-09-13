@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Java Mini Projects | Shankar</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Inter, Arial, sans-serif;
+            min-height: 100vh;
+            color: #f8fafc;
+            background:
+                radial-gradient(circle at top left, rgba(99, 102, 241, 0.25), transparent 35%),
+                radial-gradient(circle at bottom right, rgba(139, 92, 246, 0.18), transparent 35%),
+                #090d18;
+        }
+
+        .container {
+            width: min(1120px, calc(100% - 40px));
+            margin: auto;
+            padding: 70px 0;
+        }
+
+        .hero {
+            text-align: center;
+            margin-bottom: 55px;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 8px 15px;
+            border: 1px solid rgba(129, 140, 248, 0.35);
+            border-radius: 999px;
+            background: rgba(99, 102, 241, 0.1);
+            color: #a5b4fc;
+            font-size: 13px;
+            font-weight: 700;
+            margin-bottom: 22px;
+        }
+
+        h1 {
+            font-size: clamp(42px, 7vw, 76px);
+            line-height: 1;
+            letter-spacing: -3px;
+            margin-bottom: 20px;
+        }
+
+        .gradient {
+            background: linear-gradient(90deg, #818cf8, #c084fc);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        .hero p {
+            max-width: 680px;
+            margin: auto;
+            color: #94a3b8;
+            font-size: 18px;
+            line-height: 1.7;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-top: 30px;
+        }
+
+        .stat {
+            padding: 13px 20px;
+            border: 1px solid rgba(148, 163, 184, 0.15);
+            background: rgba(15, 23, 42, 0.7);
+            border-radius: 14px;
+            color: #cbd5e1;
+            font-size: 14px;
+        }
+
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .project {
+            position: relative;
+            padding: 28px;
+            border-radius: 24px;
+            border: 1px solid rgba(148, 163, 184, 0.15);
+            background: rgba(15, 23, 42, 0.72);
+            backdrop-filter: blur(18px);
+            transition: transform 0.25s ease, border-color 0.25s ease;
+        }
+
+        .project:hover {
+            transform: translateY(-5px);
+            border-color: rgba(129, 140, 248, 0.5);
+        }
+
+        .icon {
+            width: 58px;
+            height: 58px;
+            display: grid;
+            place-items: center;
+            border-radius: 16px;
+            background: rgba(99, 102, 241, 0.13);
+            font-size: 28px;
+            margin-bottom: 22px;
+        }
+
+        .project h2 {
+            font-size: 23px;
+            margin-bottom: 10px;
+        }
+
+        .project p {
+            color: #94a3b8;
+            line-height: 1.65;
+            min-height: 52px;
+            margin-bottom: 22px;
+        }
+
+        .tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 25px;
+        }
+
+        .tag {
+            padding: 6px 10px;
+            border-radius: 8px;
+            background: #1e293b;
+            color: #cbd5e1;
+            font-size: 12px;
+        }
+
+        .actions {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 11px 17px;
+            border-radius: 11px;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 700;
+            transition: 0.2s ease;
+        }
+
+        .primary {
+            background: #6366f1;
+            color: white;
+        }
+
+        .primary:hover {
+            background: #818cf8;
+        }
+
+        .secondary {
+            border: 1px solid #334155;
+            color: #cbd5e1;
+            background: #111827;
+        }
+
+        .secondary:hover {
+            border-color: #64748b;
+        }
+
+        .coming {
+            opacity: 0.72;
+        }
+
+        footer {
+            text-align: center;
+            color: #64748b;
+            margin-top: 55px;
+            font-size: 14px;
+        }
+
+        @media (max-width: 750px) {
+            .container {
+                width: min(100% - 24px, 600px);
+                padding: 45px 0;
+            }
+
+            .projects {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                letter-spacing: -2px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <header class="hero">
+
+        <div class="badge">
+            ☕ JAVA PROGRAMMING INTERNSHIP
+        </div>
+
+        <h1>
+            Java <span class="gradient">Mini Projects</span>
+        </h1>
+
+        <p>
+            A collection of Java programming projects developed during my
+            internship, with interactive web versions and practical
+            application-focused implementations.
+        </p>
+
+        <div class="stats">
+            <div class="stat">🚀 5 Projects</div>
+            <div class="stat">☕ Java</div>
+            <div class="stat">🌐 Web Apps</div>
+            <div class="stat">💻 GitHub</div>
+        </div>
+
+    </header>
+
+    <main class="projects">
+
+        <!-- Number Guessing -->
+        <article class="project">
+
+            <div class="icon">🎯</div>
+
+            <h2>Number Guessing Game</h2>
+
+            <p>
+                Guess the randomly generated number with multiple
+                difficulty levels and interactive gameplay.
+            </p>
+
+            <div class="tags">
+                <span class="tag">Java</span>
+                <span class="tag">HTML</span>
+                <span class="tag">CSS</span>
+                <span class="tag">JavaScript</span>
+            </div>
+
+            <div class="actions">
+                <a class="btn primary"
+                   href="./number-guessing/">
+                    🚀 Launch Demo
+                </a>
+
+                <a class="btn secondary"
+                   href="https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/Number%20guessing%20game">
+                    💻 Source
+                </a>
+            </div>
+
+        </article>
+
+        <!-- Student Grade -->
+        <article class="project">
+
+            <div class="icon">🎓</div>
+
+            <h2>Student Grade Calculator</h2>
+
+            <p>
+                Calculate total marks, average percentage and grade
+                with input validation.
+            </p>
+
+            <div class="tags">
+                <span class="tag">Java</span>
+                <span class="tag">HTML</span>
+                <span class="tag">CSS</span>
+                <span class="tag">JavaScript</span>
+            </div>
+
+            <div class="actions">
+                <a class="btn primary"
+                   href="./student-grade-calculator/">
+                    🚀 Launch Demo
+                </a>
+
+                <a class="btn secondary"
+                   href="https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/student%20grade%20calculator">
+                    💻 Source
+                </a>
+            </div>
+
+        </article>
+
+        <!-- ATM -->
+        <article class="project">
+
+            <div class="icon">🏧</div>
+
+            <h2>ATM Interface</h2>
+
+            <p>
+                A modern ATM simulation with balance management,
+                deposits, withdrawals and transaction history.
+            </p>
+
+            <div class="tags">
+                <span class="tag">Java</span>
+                <span class="tag">React</span>
+                <span class="tag">Vite</span>
+            </div>
+
+            <div class="actions">
+                <a class="btn primary"
+                   href="./atm/">
+                    🚀 Launch Demo
+                </a>
+
+                <a class="btn secondary"
+                   href="https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/ATM%20Interface">
+                    💻 Source
+                </a>
+            </div>
+
+        </article>
+
+        <!-- Currency Converter -->
+        <article class="project coming">
+
+            <div class="icon">💱</div>
+
+            <h2>Currency Converter</h2>
+
+            <p>
+                Convert currencies using predefined exchange rates
+                with a clean and responsive interface.
+            </p>
+
+            <div class="tags">
+                <span class="tag">Java</span>
+                <span class="tag">HTML</span>
+                <span class="tag">CSS</span>
+                <span class="tag">JavaScript</span>
+            </div>
+
+            <div class="actions">
+                <span class="btn secondary">
+                    ⏳ Coming Soon
+                </span>
+            </div>
+
+        </article>
+
+        <!-- Password Generator -->
+        <article class="project coming">
+
+            <div class="icon">🔐</div>
+
+            <h2>Password Generator</h2>
+
+            <p>
+                Generate secure customizable passwords with
+                configurable character categories and strength feedback.
+            </p>
+
+            <div class="tags">
+                <span class="tag">Java</span>
+                <span class="tag">HTML</span>
+                <span class="tag">CSS</span>
+                <span class="tag">JavaScript</span>
+            </div>
+
+            <div class="actions">
+                <span class="btn secondary">
+                    ⏳ Coming Soon
+                </span>
+            </div>
+
+        </article>
+
+    </main>
+
+    <footer>
+        Built with Java • Web Technologies • GitHub Pages
+    </footer>
+
+</div>
+
+</body>
+</html>
