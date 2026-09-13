@@ -1,10 +1,11 @@
-﻿name: Deploy Number Guessing Game
+﻿name: Deploy Java Mini Project Demos
 
 on:
   push:
     branches: ["main"]
     paths:
       - "Number guessing game/web version/**"
+      - "student grade calculator/web version/**"
       - ".github/workflows/deploy-number-guessing.yml"
   workflow_dispatch:
 
@@ -14,7 +15,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages-number-guessing"
+  group: "java-mini-projects-pages"
   cancel-in-progress: true
 
 jobs:
@@ -29,11 +30,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Prepare site
+      - name: Prepare demo site
         run: |
           rm -rf site
-          mkdir -p site
-          cp -R "Number guessing game/web version/." site/
+          mkdir -p "site/student-grade-calculator"
+
+          cp -R "Number guessing game/web version/." "site/"
+          cp -R "student grade calculator/web version/." "site/student-grade-calculator/"
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
