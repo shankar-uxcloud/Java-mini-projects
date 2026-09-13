@@ -2,11 +2,11 @@
 
 
 
-\# 🚀 Java Mini Projects
+\# ðŸš€ Java Mini Projects
 
 
 
-\### ✨ SAM AI Technologies — Java Programming Internship
+\### âœ¨ SAM AI Technologies â€” Java Programming Internship
 
 
 
@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/Projects-5-00C853?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Web%20Apps-4-2962FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Web%20Apps-5-2962FF?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/React-ATM-61DAFB?style=for-the-badge\&logo=react\&logoColor=111827">
 
@@ -26,7 +26,7 @@
 
 
 
-\### 🌌 From Core Java Logic → Interactive Web Applications
+\### ðŸŒŒ From Core Java Logic â†’ Interactive Web Applications
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-\*\*Learn\*\* → \*\*Build\*\* → \*\*Test\*\* → \*\*Validate\*\* → \*\*Improve\*\* → \*\*Showcase\*\*
+\*\*Learn\*\* â†’ \*\*Build\*\* â†’ \*\*Test\*\* â†’ \*\*Validate\*\* â†’ \*\*Improve\*\* â†’ \*\*Showcase\*\*
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-\# 🌠 About This Repository
+\# ðŸŒ  About This Repository
 
 
 
@@ -66,7 +66,7 @@ The main objective of these projects was to take programming requirements and tr
 
 
 
-\### 💡 What this repository demonstrates
+\### ðŸ’¡ What this repository demonstrates
 
 
 
@@ -74,35 +74,35 @@ The main objective of these projects was to take programming requirements and tr
 
 Requirements
 
-&#x20;    ↓
+&#x20;    â†“
 
 Understand the Problem
 
-&#x20;    ↓
+&#x20;    â†“
 
 Design the Logic
 
-&#x20;    ↓
+&#x20;    â†“
 
 Implement in Java
 
-&#x20;    ↓
+&#x20;    â†“
 
 Validate User Input
 
-&#x20;    ↓
+&#x20;    â†“
 
 Test the Application
 
-&#x20;    ↓
+&#x20;    â†“
 
 Build Web Interface
 
-&#x20;    ↓
+&#x20;    â†“
 
 Improve User Experience
 
-&#x20;    ↓
+&#x20;    â†“
 
 Document \& Publish
 
@@ -118,7 +118,7 @@ It shows a progression from:
 
 
 
-> \*\*Basic programming concepts → problem solving → application logic → frontend development → React\*\*
+> \*\*Basic programming concepts â†’ problem solving â†’ application logic â†’ frontend development â†’ React\*\*
 
 
 
@@ -126,7 +126,7 @@ It shows a progression from:
 
 
 
-\# 🌌 Project Journey
+\# ðŸŒŒ Project Journey
 
 
 
@@ -136,73 +136,73 @@ It shows a progression from:
 
 ```text
 
-╔══════════════════════════════════════════════════════════╗
+â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
 
-║                 🚀 JAVA INTERNSHIP JOURNEY              ║
+â•‘                 ðŸš€ JAVA INTERNSHIP JOURNEY              â•‘
 
-╠══════════════════════════════════════════════════════════╣
+â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£
 
-║                                                          ║
+â•‘                                                          â•‘
 
-║  🎯 01  NUMBER GUESSING GAME                            ║
+â•‘  ðŸŽ¯ 01  NUMBER GUESSING GAME                            â•‘
 
-║       Randomization • Conditions • Loops                ║
+â•‘       Randomization â€¢ Conditions â€¢ Loops                â•‘
 
-║                         │                                ║
+â•‘                         â”‚                                â•‘
 
-║                         ▼                                ║
+â•‘                         â–¼                                â•‘
 
-║  🎓 02  STUDENT GRADE CALCULATOR                        ║
+â•‘  ðŸŽ“ 02  STUDENT GRADE CALCULATOR                        â•‘
 
-║       Arrays • Validation • Calculations                 ║
+â•‘       Arrays â€¢ Validation â€¢ Calculations                 â•‘
 
-║                         │                                ║
+â•‘                         â”‚                                â•‘
 
-║                         ▼                                ║
+â•‘                         â–¼                                â•‘
 
-║  🏧 03  ATM INTERFACE                                   ║
+â•‘  ðŸ§ 03  ATM INTERFACE                                   â•‘
 
-║       Methods • State • Transactions • React             ║
+â•‘       Methods â€¢ State â€¢ Transactions â€¢ React             â•‘
 
-║                         │                                ║
+â•‘                         â”‚                                â•‘
 
-║                         ▼                                ║
+â•‘                         â–¼                                â•‘
 
-║  💱 04  CURRENCY CONVERTER                              ║
+â•‘  ðŸ’± 04  CURRENCY CONVERTER                              â•‘
 
-║       Conversion Logic • UI Controls                    ║
+â•‘       Conversion Logic â€¢ UI Controls                    â•‘
 
-║                         │                                ║
+â•‘                         â”‚                                â•‘
 
-║                         ▼                                ║
+â•‘                         â–¼                                â•‘
 
-║  🔐 05  PASSWORD GENERATOR                              ║
+â•‘  ðŸ” 05  PASSWORD GENERATOR                              â•‘
 
-║       Randomness • Character Sets • UX                  ║
+â•‘       Randomness â€¢ Character Sets â€¢ UX                  â•‘
 
-║                         │                                ║
+â•‘                         â”‚                                â•‘
 
-║                         ▼                                ║
+â•‘                         â–¼                                â•‘
 
-║                🏆 INTERNSHIP COMPLETE                   ║
+â•‘                ðŸ† INTERNSHIP COMPLETE                   â•‘
 
-║                                                          ║
+â•‘                                                          â•‘
 
-╚══════════════════════════════════════════════════════════╝
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 ```
 
 
 
-\### ⚡ DEVELOPMENT PROGRESS
+\### âš¡ DEVELOPMENT PROGRESS
 
 
 
-`██████████████████████████████████████████████████` \*\*100%\*\*
+`â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ` \*\*100%\*\*
 
 
 
-\### 🏆 5 / 5 PROJECTS COMPLETED
+\### ðŸ† 5 / 5 PROJECTS COMPLETED
 
 
 
@@ -214,7 +214,7 @@ It shows a progression from:
 
 
 
-\# 📚 Project Overview
+\# ðŸ“š Project Overview
 
 
 
@@ -222,15 +222,15 @@ It shows a progression from:
 
 |:--:|---|---|:--:|:--:|
 
-| 01 | 🎯 \*\*Number Guessing Game\*\* | Random numbers, conditions, loops | ✅ | ✅ |
+| 01 | ðŸŽ¯ \*\*Number Guessing Game\*\* | Random numbers, conditions, loops | âœ… | âœ… |
 
-| 02 | 🎓 \*\*Student Grade Calculator\*\* | Arrays, calculations, validation | ✅ | ✅ |
+| 02 | ðŸŽ“ \*\*Student Grade Calculator\*\* | Arrays, calculations, validation | âœ… | âœ… |
 
-| 03 | 🏧 \*\*ATM Interface\*\* | Methods, state, transactions | ✅ | ✅ React |
+| 03 | ðŸ§ \*\*ATM Interface\*\* | Methods, state, transactions | âœ… | âœ… React |
 
-| 04 | 💱 \*\*Currency Converter\*\* | Conversion logic, UI interaction | ✅ | ✅ |
+| 04 | ðŸ’± \*\*Currency Converter\*\* | Conversion logic, UI interaction | âœ… | âœ… |
 
-| 05 | 🔐 \*\*Password Generator\*\* | Random generation, character sets | ✅ | ✅ |
+| 05 | ðŸ” \*\*Password Generator\*\* | Random generation, character sets | âœ… | âœ… |
 
 
 
@@ -238,7 +238,7 @@ It shows a progression from:
 
 
 
-\# 🎬 Demo Showcase
+\# ðŸŽ¬ Demo Showcase
 
 
 
@@ -246,7 +246,7 @@ It shows a progression from:
 
 
 
-\### 🎯 Interactive Project Collection
+\### ðŸŽ¯ Interactive Project Collection
 
 
 
@@ -254,15 +254,15 @@ It shows a progression from:
 
 |---|---|---|
 
-| 🎯 Number Guessing Game | ✅ | ✅ |
+| ðŸŽ¯ Number Guessing Game | âœ… | âœ… |
 
-| 🎓 Student Grade Calculator | ✅ | ✅ |
+| ðŸŽ“ Student Grade Calculator | âœ… | âœ… |
 
-| 🏧 ATM Interface | ✅ | ✅ React |
+| ðŸ§ ATM Interface | âœ… | âœ… React |
 
-| 💱 Currency Converter | ✅ | ✅ |
+| ðŸ’± Currency Converter | âœ… | âœ… |
 
-| 🔐 Password Generator | ✅ | ✅ |
+| ðŸ” Password Generator | âœ… | âœ… |
 
 
 
@@ -270,7 +270,7 @@ It shows a progression from:
 
 
 
-> 📌 The repository keeps the Java and web implementations organized separately so each version can be studied, executed and compared independently.
+> ðŸ“Œ The repository keeps the Java and web implementations organized separately so each version can be studied, executed and compared independently.
 
 
 
@@ -278,11 +278,11 @@ It shows a progression from:
 
 
 
-\# 🎯 01 — NUMBER GUESSING GAME
+\# ðŸŽ¯ 01 â€” NUMBER GUESSING GAME
 
 
 
-\## 📝 Project Overview
+\## ðŸ“ Project Overview
 
 
 
@@ -296,11 +296,11 @@ After each attempt, the application gives feedback:
 
 ```text
 
-⬆️ Too High
+â¬†ï¸ Too High
 
-⬇️ Too Low
+â¬‡ï¸ Too Low
 
-🎉 Correct
+ðŸŽ‰ Correct
 
 ```
 
@@ -314,7 +314,7 @@ The game continues until the correct number is guessed.
 
 
 
-\## 🧠 What I Implemented
+\## ðŸ§  What I Implemented
 
 
 
@@ -348,7 +348,7 @@ The game continues until the correct number is guessed.
 
 
 
-\## 🎚️ Difficulty Modes
+\## ðŸŽšï¸ Difficulty Modes
 
 
 
@@ -356,11 +356,11 @@ The game continues until the correct number is guessed.
 
 |---|---:|
 
-| 🟢 Easy | 1 – 50 |
+| ðŸŸ¢ Easy | 1 â€“ 50 |
 
-| 🟡 Medium | 1 – 100 |
+| ðŸŸ¡ Medium | 1 â€“ 100 |
 
-| 🔴 Hard | 1 – 1000 |
+| ðŸ”´ Hard | 1 â€“ 1000 |
 
 
 
@@ -368,55 +368,55 @@ The game continues until the correct number is guessed.
 
 
 
-\## 🔄 Application Flow
+\## ðŸ”„ Application Flow
 
 
 
 ```text
 
-&#x20;            🎮 START
+&#x20;            ðŸŽ® START
 
-&#x20;                │
+&#x20;                â”‚
 
-&#x20;                ▼
+&#x20;                â–¼
 
 &#x20;       Select Difficulty
 
-&#x20;                │
+&#x20;                â”‚
 
-&#x20;                ▼
+&#x20;                â–¼
 
 &#x20;       Generate Random Number
 
-&#x20;                │
+&#x20;                â”‚
 
-&#x20;                ▼
+&#x20;                â–¼
 
 &#x20;         Enter Your Guess
 
-&#x20;                │
+&#x20;                â”‚
 
-&#x20;       ┌────────┼────────┐
+&#x20;       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”
 
-&#x20;       │        │        │
+&#x20;       â”‚        â”‚        â”‚
 
-&#x20;       ▼        ▼        ▼
+&#x20;       â–¼        â–¼        â–¼
 
 &#x20;    Too High  Too Low   Correct
 
-&#x20;       │        │        │
+&#x20;       â”‚        â”‚        â”‚
 
-&#x20;       └────────┴────────┘
+&#x20;       â””â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 
-&#x20;                │
+&#x20;                â”‚
 
 &#x20;           Try Again
 
-&#x20;                │
+&#x20;                â”‚
 
-&#x20;                ▼
+&#x20;                â–¼
 
-&#x20;            🎉 WIN
+&#x20;            ðŸŽ‰ WIN
 
 ```
 
@@ -426,7 +426,7 @@ The game continues until the correct number is guessed.
 
 
 
-\## ▶️ Run Java Version
+\## â–¶ï¸ Run Java Version
 
 
 
@@ -446,7 +446,7 @@ java NumberGame
 
 
 
-\## 🌐 Web Version
+\## ðŸŒ Web Version
 
 
 
@@ -478,11 +478,11 @@ HTML + CSS + JavaScript
 
 
 
-\# 🎓 02 — STUDENT GRADE CALCULATOR
+\# ðŸŽ“ 02 â€” STUDENT GRADE CALCULATOR
 
 
 
-\## 📝 Project Overview
+\## ðŸ“ Project Overview
 
 
 
@@ -494,11 +494,11 @@ The \*\*Student Grade Calculator\*\* accepts marks for multiple subjects and cal
 
 Total Marks
 
-&#x20;     ↓
+&#x20;     â†“
 
 Average Percentage
 
-&#x20;     ↓
+&#x20;     â†“
 
 Final Grade
 
@@ -514,7 +514,7 @@ This project focuses on using arrays, loops, validation and mathematical calcula
 
 
 
-\## 🧠 What I Implemented
+\## ðŸ§  What I Implemented
 
 
 
@@ -542,19 +542,19 @@ This project focuses on using arrays, loops, validation and mathematical calcula
 
 
 
-\## 📊 Grade Logic
+\## ðŸ“Š Grade Logic
 
 
 
 ```text
 
-90+            → 🟢 A
+90+            â†’ ðŸŸ¢ A
 
-75 – 89.99     → 🔵 B
+75 â€“ 89.99     â†’ ðŸ”µ B
 
-50 – 74.99     → 🟡 C
+50 â€“ 74.99     â†’ ðŸŸ¡ C
 
-Below 50       → 🔴 Fail
+Below 50       â†’ ðŸ”´ Fail
 
 ```
 
@@ -564,7 +564,7 @@ Below 50       → 🔴 Fail
 
 
 
-\## 🔄 Calculation Flow
+\## ðŸ”„ Calculation Flow
 
 
 
@@ -572,33 +572,33 @@ Below 50       → 🔴 Fail
 
 Enter Number of Subjects
 
-&#x20;           ↓
+&#x20;           â†“
 
 &#x20;     Enter Marks
 
-&#x20;           ↓
+&#x20;           â†“
 
 &#x20;    Validate Input
 
-&#x20;           ↓
+&#x20;           â†“
 
 &#x20;     Store in Array
 
-&#x20;           ↓
+&#x20;           â†“
 
 &#x20;     Calculate Total
 
-&#x20;           ↓
+&#x20;           â†“
 
 &#x20;    Calculate Average
 
-&#x20;           ↓
+&#x20;           â†“
 
 &#x20;     Determine Grade
 
-&#x20;           ↓
+&#x20;           â†“
 
-&#x20;      📊 Display Result
+&#x20;      ðŸ“Š Display Result
 
 ```
 
@@ -608,7 +608,7 @@ Enter Number of Subjects
 
 
 
-\## ▶️ Run Java Version
+\## â–¶ï¸ Run Java Version
 
 
 
@@ -628,7 +628,7 @@ java StudentGradeCalculator
 
 
 
-\## 🌐 Web Version
+\## ðŸŒ Web Version
 
 
 
@@ -648,11 +648,11 @@ student grade calculator/web version/index.html
 
 
 
-\# 🏧 03 — ATM INTERFACE
+\# ðŸ§ 03 â€” ATM INTERFACE
 
 
 
-\## 📝 Project Overview
+\## ðŸ“ Project Overview
 
 
 
@@ -668,7 +668,7 @@ The Java implementation focuses on programming logic and reusable methods, while
 
 
 
-\## ☕ Java Implementation
+\## â˜• Java Implementation
 
 
 
@@ -676,21 +676,21 @@ The Java implementation focuses on programming logic and reusable methods, while
 
 
 
-\- 💰 Check balance
+\- ðŸ’° Check balance
 
-\- ➕ Deposit money
+\- âž• Deposit money
 
-\- ➖ Withdraw money
+\- âž– Withdraw money
 
-\- ⚠️ Validate transaction amounts
+\- âš ï¸ Validate transaction amounts
 
-\- 🚫 Prevent withdrawal above available balance
+\- ðŸš« Prevent withdrawal above available balance
 
-\- 🔄 Update account balance
+\- ðŸ”„ Update account balance
 
-\- 🧩 Reusable methods
+\- ðŸ§© Reusable methods
 
-\- 📜 Transaction messages
+\- ðŸ“œ Transaction messages
 
 
 
@@ -698,7 +698,7 @@ The Java implementation focuses on programming logic and reusable methods, while
 
 
 
-\## ⚛️ React Web Implementation
+\## âš›ï¸ React Web Implementation
 
 
 
@@ -710,27 +710,27 @@ The React version adds a more complete interface.
 
 
 
-\- 💰 Balance dashboard
+\- ðŸ’° Balance dashboard
 
-\- ➕ Deposit flow
+\- âž• Deposit flow
 
-\- ➖ Withdraw flow
+\- âž– Withdraw flow
 
-\- ⚡ Quick amount buttons
+\- âš¡ Quick amount buttons
 
-\- ✅ Input validation
+\- âœ… Input validation
 
-\- 🚫 Insufficient balance handling
+\- ðŸš« Insufficient balance handling
 
-\- 📜 Transaction history
+\- ðŸ“œ Transaction history
 
-\- 🌙 Light / Dark mode
+\- ðŸŒ™ Light / Dark mode
 
-\- 💾 Theme persistence
+\- ðŸ’¾ Theme persistence
 
-\- 📱 Responsive design
+\- ðŸ“± Responsive design
 
-\- ⚛️ React + Vite architecture
+\- âš›ï¸ React + Vite architecture
 
 
 
@@ -738,47 +738,47 @@ The React version adds a more complete interface.
 
 
 
-\## 🔄 ATM Flow
+\## ðŸ”„ ATM Flow
 
 
 
 ```text
 
-&#x20;                    🏧 ATM
+&#x20;                    ðŸ§ ATM
 
-&#x20;                      │
+&#x20;                      â”‚
 
-&#x20;         ┌────────────┼────────────┐
+&#x20;         â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
 
-&#x20;         ▼            ▼            ▼
+&#x20;         â–¼            â–¼            â–¼
 
-&#x20;    💰 Balance     ➕ Deposit    ➖ Withdraw
+&#x20;    ðŸ’° Balance     âž• Deposit    âž– Withdraw
 
-&#x20;         │            │            │
+&#x20;         â”‚            â”‚            â”‚
 
-&#x20;         └────────────┼────────────┘
+&#x20;         â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 
-&#x20;                      ▼
+&#x20;                      â–¼
 
-&#x20;                 ✅ Validation
+&#x20;                 âœ… Validation
 
-&#x20;                      │
+&#x20;                      â”‚
 
-&#x20;                      ▼
+&#x20;                      â–¼
 
-&#x20;                 🔄 Update State
+&#x20;                 ðŸ”„ Update State
 
-&#x20;                      │
+&#x20;                      â”‚
 
-&#x20;                      ▼
+&#x20;                      â–¼
 
-&#x20;                 📜 Transaction
+&#x20;                 ðŸ“œ Transaction
 
-&#x20;                      │
+&#x20;                      â”‚
 
-&#x20;                      ▼
+&#x20;                      â–¼
 
-&#x20;                 ✅ Result
+&#x20;                 âœ… Result
 
 ```
 
@@ -788,7 +788,7 @@ The React version adds a more complete interface.
 
 
 
-\## ▶️ Run Java Version
+\## â–¶ï¸ Run Java Version
 
 
 
@@ -808,7 +808,7 @@ java ATMInterface
 
 
 
-\## ⚛️ Run React Version
+\## âš›ï¸ Run React Version
 
 
 
@@ -844,11 +844,11 @@ http://localhost:5173/
 
 
 
-\# 💱 04 — CURRENCY CONVERTER
+\# ðŸ’± 04 â€” CURRENCY CONVERTER
 
 
 
-\## 📝 Project Overview
+\## ðŸ“ Project Overview
 
 
 
@@ -860,7 +860,7 @@ The \*\*Currency Converter\*\* accepts an amount, source currency and target cur
 
 
 
-\## 🌍 Supported Currencies
+\## ðŸŒ Supported Currencies
 
 
 
@@ -886,7 +886,7 @@ AUD
 
 
 
-\## 🧠 What I Implemented
+\## ðŸ§  What I Implemented
 
 
 
@@ -910,7 +910,7 @@ AUD
 
 
 
-\## 🔄 Conversion Pipeline
+\## ðŸ”„ Conversion Pipeline
 
 
 
@@ -918,41 +918,41 @@ AUD
 
 &#x20;       Enter Amount
 
-&#x20;             │
+&#x20;             â”‚
 
-&#x20;             ▼
+&#x20;             â–¼
 
 &#x20;      Select Source
 
-&#x20;             │
+&#x20;             â”‚
 
-&#x20;             ▼
+&#x20;             â–¼
 
 &#x20;    Convert to USD Base
 
-&#x20;             │
+&#x20;             â”‚
 
-&#x20;             ▼
+&#x20;             â–¼
 
 &#x20;      Select Target
 
-&#x20;             │
+&#x20;             â”‚
 
-&#x20;             ▼
+&#x20;             â–¼
 
 &#x20;   Calculate Final Value
 
-&#x20;             │
+&#x20;             â”‚
 
-&#x20;             ▼
+&#x20;             â–¼
 
-&#x20;       💱 Result
+&#x20;       ðŸ’± Result
 
 ```
 
 
 
-> ℹ️ The Java implementation uses predefined/sample exchange rates. It does not use a live currency API.
+> â„¹ï¸ The Java implementation uses predefined/sample exchange rates. It does not use a live currency API.
 
 
 
@@ -960,7 +960,7 @@ AUD
 
 
 
-\## ▶️ Run Java Version
+\## â–¶ï¸ Run Java Version
 
 
 
@@ -980,7 +980,7 @@ java CurrencyConverter
 
 
 
-\## 🌐 Web Version
+\## ðŸŒ Web Version
 
 
 
@@ -1000,11 +1000,11 @@ Currency Converter/web version/index.html
 
 
 
-\# 🔐 05 — PASSWORD GENERATOR
+\# ðŸ” 05 â€” PASSWORD GENERATOR
 
 
 
-\## 📝 Project Overview
+\## ðŸ“ Project Overview
 
 
 
@@ -1016,19 +1016,19 @@ The \*\*Password Generator\*\* creates randomized passwords based on the user's 
 
 
 
-\## 🧩 Character Options
+\## ðŸ§© Character Options
 
 
 
 ```text
 
-🔠 Uppercase
+ðŸ”  Uppercase
 
-🔡 Lowercase
+ðŸ”¡ Lowercase
 
-🔢 Numbers
+ðŸ”¢ Numbers
 
-🔣 Special Characters
+ðŸ”£ Special Characters
 
 ```
 
@@ -1038,7 +1038,7 @@ The \*\*Password Generator\*\* creates randomized passwords based on the user's 
 
 
 
-\## 🧠 What I Implemented
+\## ðŸ§  What I Implemented
 
 
 
@@ -1074,7 +1074,7 @@ The \*\*Password Generator\*\* creates randomized passwords based on the user's 
 
 
 
-\## 🔄 Generation Pipeline
+\## ðŸ”„ Generation Pipeline
 
 
 
@@ -1086,29 +1086,29 @@ The \*\*Password Generator\*\* creates randomized passwords based on the user's 
 
 &#x20;     Select Characters
 
-&#x20;            │
+&#x20;            â”‚
 
-&#x20;            ▼
+&#x20;            â–¼
 
 &#x20;     Build Character Pool
 
-&#x20;            │
+&#x20;            â”‚
 
-&#x20;            ▼
+&#x20;            â–¼
 
 &#x20;      Random Selection
 
-&#x20;            │
+&#x20;            â”‚
 
-&#x20;            ▼
+&#x20;            â–¼
 
 &#x20;         Shuffle
 
-&#x20;            │
+&#x20;            â”‚
 
-&#x20;            ▼
+&#x20;            â–¼
 
-&#x20;     🔐 Final Password
+&#x20;     ðŸ” Final Password
 
 ```
 
@@ -1118,7 +1118,7 @@ The \*\*Password Generator\*\* creates randomized passwords based on the user's 
 
 
 
-\## ▶️ Run Java Version
+\## â–¶ï¸ Run Java Version
 
 
 
@@ -1138,7 +1138,7 @@ java PasswordGenerator
 
 
 
-\## 🌐 Web Version
+\## ðŸŒ Web Version
 
 
 
@@ -1158,7 +1158,7 @@ Password Generator/web version/index.html
 
 
 
-\# 🧪 Testing \& Validation
+\# ðŸ§ª Testing \& Validation
 
 
 
@@ -1174,15 +1174,15 @@ Examples include:
 
 |---|---|
 
-| 🎯 Guessing Game | Guess interaction and game progression |
+| ðŸŽ¯ Guessing Game | Guess interaction and game progression |
 
-| 🎓 Grade Calculator | Marks must stay within `0–100` |
+| ðŸŽ“ Grade Calculator | Marks must stay within `0â€“100` |
 
-| 🏧 ATM | Invalid amounts and insufficient balance |
+| ðŸ§ ATM | Invalid amounts and insufficient balance |
 
-| 💱 Currency Converter | Amount and currency selection |
+| ðŸ’± Currency Converter | Amount and currency selection |
 
-| 🔐 Password Generator | Valid password-length range |
+| ðŸ” Password Generator | Valid password-length range |
 
 
 
@@ -1190,11 +1190,11 @@ Examples include:
 
 
 
-\# 🧠 Concepts Practiced
+\# ðŸ§  Concepts Practiced
 
 
 
-\## ☕ Core Java
+\## â˜• Core Java
 
 
 
@@ -1234,7 +1234,7 @@ Random
 
 
 
-\## 🧩 Programming \& Problem Solving
+\## ðŸ§© Programming \& Problem Solving
 
 
 
@@ -1264,7 +1264,7 @@ Error Handling
 
 
 
-\## 🌐 Frontend Development
+\## ðŸŒ Frontend Development
 
 
 
@@ -1292,7 +1292,7 @@ User Feedback
 
 
 
-\## ⚛️ React Development
+\## âš›ï¸ React Development
 
 
 
@@ -1322,7 +1322,7 @@ npm
 
 
 
-\# 🛠️ Technology Stack
+\# ðŸ› ï¸ Technology Stack
 
 
 
@@ -1334,23 +1334,23 @@ npm
 
 |---|---|
 
-| ☕ \*\*Java\*\* | Core application logic |
+| â˜• \*\*Java\*\* | Core application logic |
 
-| 🌐 \*\*HTML5\*\* | Web structure |
+| ðŸŒ \*\*HTML5\*\* | Web structure |
 
-| 🎨 \*\*CSS3\*\* | Styling and responsive design |
+| ðŸŽ¨ \*\*CSS3\*\* | Styling and responsive design |
 
-| ⚡ \*\*JavaScript\*\* | Browser interaction |
+| âš¡ \*\*JavaScript\*\* | Browser interaction |
 
-| ⚛️ \*\*React\*\* | ATM web application |
+| âš›ï¸ \*\*React\*\* | ATM web application |
 
-| 🚀 \*\*Vite\*\* | React development environment |
+| ðŸš€ \*\*Vite\*\* | React development environment |
 
-| 📦 \*\*npm\*\* | Dependency management |
+| ðŸ“¦ \*\*npm\*\* | Dependency management |
 
-| 🔧 \*\*Git\*\* | Version control |
+| ðŸ”§ \*\*Git\*\* | Version control |
 
-| 🐙 \*\*GitHub\*\* | Repository \& project showcase |
+| ðŸ™ \*\*GitHub\*\* | Repository \& project showcase |
 
 
 
@@ -1362,7 +1362,7 @@ npm
 
 
 
-\# 📁 Repository Structure
+\# ðŸ“ Repository Structure
 
 
 
@@ -1370,113 +1370,113 @@ npm
 
 Java-mini-projects/
 
-│
+â”‚
 
-├── 🎯 Number guessing game/
+â”œâ”€â”€ ðŸŽ¯ Number guessing game/
 
-│   ├── java version/
+â”‚   â”œâ”€â”€ java version/
 
-│   │   └── numbergame.java
+â”‚   â”‚   â””â”€â”€ numbergame.java
 
-│   │
+â”‚   â”‚
 
-│   └── web version/
+â”‚   â””â”€â”€ web version/
 
-│       ├── index.html
+â”‚       â”œâ”€â”€ index.html
 
-│       ├── script.js
+â”‚       â”œâ”€â”€ script.js
 
-│       └── style.css
+â”‚       â””â”€â”€ style.css
 
-│
+â”‚
 
-├── 🎓 student grade calculator/
+â”œâ”€â”€ ðŸŽ“ student grade calculator/
 
-│   ├── java version/
+â”‚   â”œâ”€â”€ java version/
 
-│   │   └── StudentGradeCalculator.java
+â”‚   â”‚   â””â”€â”€ StudentGradeCalculator.java
 
-│   │
+â”‚   â”‚
 
-│   └── web version/
+â”‚   â””â”€â”€ web version/
 
-│       ├── index.html
+â”‚       â”œâ”€â”€ index.html
 
-│       ├── script.js
+â”‚       â”œâ”€â”€ script.js
 
-│       └── style.css
+â”‚       â””â”€â”€ style.css
 
-│
+â”‚
 
-├── 🏧 ATM Interface/
+â”œâ”€â”€ ðŸ§ ATM Interface/
 
-│   ├── java version/
+â”‚   â”œâ”€â”€ java version/
 
-│   │   └── ATMInterface.java
+â”‚   â”‚   â””â”€â”€ ATMInterface.java
 
-│   │
+â”‚   â”‚
 
-│   └── web version/
+â”‚   â””â”€â”€ web version/
 
-│       ├── index.html
+â”‚       â”œâ”€â”€ index.html
 
-│       ├── script.js
+â”‚       â”œâ”€â”€ script.js
 
-│       ├── style.css
+â”‚       â”œâ”€â”€ style.css
 
-│       │
+â”‚       â”‚
 
-│       └── atm-react/
+â”‚       â””â”€â”€ atm-react/
 
-│           ├── public/
+â”‚           â”œâ”€â”€ public/
 
-│           ├── src/
+â”‚           â”œâ”€â”€ src/
 
-│           ├── package.json
+â”‚           â”œâ”€â”€ package.json
 
-│           └── vite.config.js
+â”‚           â””â”€â”€ vite.config.js
 
-│
+â”‚
 
-├── 💱 Currency Converter/
+â”œâ”€â”€ ðŸ’± Currency Converter/
 
-│   ├── java version/
+â”‚   â”œâ”€â”€ java version/
 
-│   │   └── CurrencyConverter.java
+â”‚   â”‚   â””â”€â”€ CurrencyConverter.java
 
-│   │
+â”‚   â”‚
 
-│   └── web version/
+â”‚   â””â”€â”€ web version/
 
-│       ├── index.html
+â”‚       â”œâ”€â”€ index.html
 
-│       ├── script.js
+â”‚       â”œâ”€â”€ script.js
 
-│       └── style.css
+â”‚       â””â”€â”€ style.css
 
-│
+â”‚
 
-├── 🔐 Password Generator/
+â”œâ”€â”€ ðŸ” Password Generator/
 
-│   ├── java version/
+â”‚   â”œâ”€â”€ java version/
 
-│   │   └── PasswordGenerator.java
+â”‚   â”‚   â””â”€â”€ PasswordGenerator.java
 
-│   │
+â”‚   â”‚
 
-│   └── web version/
+â”‚   â””â”€â”€ web version/
 
-│       ├── index.html
+â”‚       â”œâ”€â”€ index.html
 
-│       ├── script.js
+â”‚       â”œâ”€â”€ script.js
 
-│       └── style.css
+â”‚       â””â”€â”€ style.css
 
-│
+â”‚
 
-├── .gitignore
+â”œâ”€â”€ .gitignore
 
-└── README.md
+â””â”€â”€ README.md
 
 ```
 
@@ -1486,11 +1486,11 @@ Java-mini-projects/
 
 
 
-\# ⚡ How to Run the Repository
+\# âš¡ How to Run the Repository
 
 
 
-\## 1️⃣ Clone the Repository
+\## 1ï¸âƒ£ Clone the Repository
 
 
 
@@ -1508,7 +1508,7 @@ cd Java-mini-projects
 
 
 
-\## 2️⃣ Verify Java
+\## 2ï¸âƒ£ Verify Java
 
 
 
@@ -1530,7 +1530,7 @@ javac -version
 
 
 
-\## 3️⃣ Run a Java Project
+\## 3ï¸âƒ£ Run a Java Project
 
 
 
@@ -1618,7 +1618,7 @@ java PasswordGenerator
 
 
 
-\# 🌐 Running the Web Versions
+\# ðŸŒ Running the Web Versions
 
 
 
@@ -1628,13 +1628,13 @@ The following projects can be opened directly in a modern browser:
 
 ```text
 
-🎯 Number Guessing Game
+ðŸŽ¯ Number Guessing Game
 
-🎓 Student Grade Calculator
+ðŸŽ“ Student Grade Calculator
 
-💱 Currency Converter
+ðŸ’± Currency Converter
 
-🔐 Password Generator
+ðŸ” Password Generator
 
 ```
 
@@ -1656,7 +1656,7 @@ PROJECT/web version/index.html
 
 
 
-\# ⚛️ Running the ATM React Application
+\# âš›ï¸ Running the ATM React Application
 
 
 
@@ -1704,7 +1704,7 @@ Then open the URL displayed by Vite.
 
 
 
-\# 📊 Completion Dashboard
+\# ðŸ“Š Completion Dashboard
 
 
 
@@ -1716,15 +1716,15 @@ Then open the URL displayed by Vite.
 
 |:--|:--:|:--:|:--:|
 
-| 🎯 Number Guessing Game | ✅ | ✅ | 🟢 Complete |
+| ðŸŽ¯ Number Guessing Game | âœ… | âœ… | ðŸŸ¢ Complete |
 
-| 🎓 Student Grade Calculator | ✅ | ✅ | 🟢 Complete |
+| ðŸŽ“ Student Grade Calculator | âœ… | âœ… | ðŸŸ¢ Complete |
 
-| 🏧 ATM Interface | ✅ | ✅ React | 🟢 Complete |
+| ðŸ§ ATM Interface | âœ… | âœ… React | ðŸŸ¢ Complete |
 
-| 💱 Currency Converter | ✅ | ✅ | 🟢 Complete |
+| ðŸ’± Currency Converter | âœ… | âœ… | ðŸŸ¢ Complete |
 
-| 🔐 Password Generator | ✅ | ✅ | 🟢 Complete |
+| ðŸ” Password Generator | âœ… | âœ… | ðŸŸ¢ Complete |
 
 
 
@@ -1732,11 +1732,11 @@ Then open the URL displayed by Vite.
 
 
 
-\## 🏆 5 / 5 PROJECTS COMPLETE
+\## ðŸ† 5 / 5 PROJECTS COMPLETE
 
 
 
-`██████████████████████████████████████████████████`
+`â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ`
 
 
 
@@ -1752,7 +1752,7 @@ Then open the URL displayed by Vite.
 
 
 
-\# 🌌 From Console → Web → React
+\# ðŸŒŒ From Console â†’ Web â†’ React
 
 
 
@@ -1762,49 +1762,49 @@ This repository also reflects an important progression in my development process
 
 ```text
 
-&#x20;               ☕ JAVA
+&#x20;               â˜• JAVA
 
-&#x20;                 │
+&#x20;                 â”‚
 
-&#x20;                 ▼
+&#x20;                 â–¼
 
 &#x20;         Core Programming Logic
 
-&#x20;                 │
+&#x20;                 â”‚
 
-&#x20;                 ▼
+&#x20;                 â–¼
 
 &#x20;          Input \& Validation
 
-&#x20;                 │
+&#x20;                 â”‚
 
-&#x20;                 ▼
+&#x20;                 â–¼
 
 &#x20;         Working Console Apps
 
-&#x20;                 │
+&#x20;                 â”‚
 
-&#x20;                 ▼
+&#x20;                 â–¼
 
-&#x20;         🌐 Web Interfaces
+&#x20;         ðŸŒ Web Interfaces
 
-&#x20;                 │
+&#x20;                 â”‚
 
-&#x20;                 ▼
+&#x20;                 â–¼
 
 &#x20;     Responsive User Experience
 
-&#x20;                 │
+&#x20;                 â”‚
 
-&#x20;                 ▼
+&#x20;                 â–¼
 
-&#x20;       ⚛️ React Application
+&#x20;       âš›ï¸ React Application
 
-&#x20;                 │
+&#x20;                 â”‚
 
-&#x20;                 ▼
+&#x20;                 â–¼
 
-&#x20;           🚀 PROJECT SHOWCASE
+&#x20;           ðŸš€ PROJECT SHOWCASE
 
 ```
 
@@ -1818,7 +1818,7 @@ It was about learning how to take an idea from:
 
 
 
-> \*\*Requirement → Logic → Implementation → Validation → Interface → Documentation\*\*
+> \*\*Requirement â†’ Logic â†’ Implementation â†’ Validation â†’ Interface â†’ Documentation\*\*
 
 
 
@@ -1826,7 +1826,7 @@ It was about learning how to take an idea from:
 
 
 
-\# 🎓 Internship Outcome
+\# ðŸŽ“ Internship Outcome
 
 
 
@@ -1866,11 +1866,11 @@ During this internship, these projects helped me practice how to:
 
 
 
-\# 🚀 What I Learned
+\# ðŸš€ What I Learned
 
 
 
-\### 01 — Think Before Coding
+\### 01 â€” Think Before Coding
 
 
 
@@ -1878,7 +1878,7 @@ Understand the requirement and define the flow before writing implementation cod
 
 
 
-\### 02 — Validate Everything
+\### 02 â€” Validate Everything
 
 
 
@@ -1886,7 +1886,7 @@ User input should not be blindly trusted.
 
 
 
-\### 03 — Build Incrementally
+\### 03 â€” Build Incrementally
 
 
 
@@ -1894,7 +1894,7 @@ Start with the core logic, test it, and then improve the interface.
 
 
 
-\### 04 — Focus on User Experience
+\### 04 â€” Focus on User Experience
 
 
 
@@ -1902,7 +1902,7 @@ A working program becomes more useful when it is understandable and easy to inte
 
 
 
-\### 05 — Document the Work
+\### 05 â€” Document the Work
 
 
 
@@ -1914,7 +1914,7 @@ A project should explain not only \*\*what it does\*\*, but also \*\*how it was 
 
 
 
-\# 💎 Project Philosophy
+\# ðŸ’Ž Project Philosophy
 
 
 
@@ -1924,35 +1924,35 @@ A project should explain not only \*\*what it does\*\*, but also \*\*how it was 
 
 ```text
 
-&#x20;          💡 IDEA
+&#x20;          ðŸ’¡ IDEA
 
-&#x20;            ↓
+&#x20;            â†“
 
-&#x20;       🧠 THINK
+&#x20;       ðŸ§  THINK
 
-&#x20;            ↓
+&#x20;            â†“
 
-&#x20;       💻 BUILD
+&#x20;       ðŸ’» BUILD
 
-&#x20;            ↓
+&#x20;            â†“
 
-&#x20;       🧪 TEST
+&#x20;       ðŸ§ª TEST
 
-&#x20;            ↓
+&#x20;            â†“
 
-&#x20;       ✅ VALIDATE
+&#x20;       âœ… VALIDATE
 
-&#x20;            ↓
+&#x20;            â†“
 
-&#x20;       🎨 IMPROVE
+&#x20;       ðŸŽ¨ IMPROVE
 
-&#x20;            ↓
+&#x20;            â†“
 
-&#x20;       📚 DOCUMENT
+&#x20;       ðŸ“š DOCUMENT
 
-&#x20;            ↓
+&#x20;            â†“
 
-&#x20;       🚀 PUBLISH
+&#x20;       ðŸš€ PUBLISH
 
 ```
 
@@ -1970,7 +1970,7 @@ A project should explain not only \*\*what it does\*\*, but also \*\*how it was 
 
 
 
-\# 👨‍💻 Author
+\# ðŸ‘¨â€ðŸ’» Author
 
 
 
@@ -1994,11 +1994,11 @@ A project should explain not only \*\*what it does\*\*, but also \*\*how it was 
 
 
 
-\### 🚀 Learn • Build • Test • Improve • Ship
+\### ðŸš€ Learn â€¢ Build â€¢ Test â€¢ Improve â€¢ Ship
 
 
 
-⭐ \*\*Thanks for exploring my internship projects!\*\*
+â­ \*\*Thanks for exploring my internship projects!\*\*
 
 
 
@@ -2014,17 +2014,37 @@ A project should explain not only \*\*what it does\*\*, but also \*\*how it was 
 
 
 
-\# 🌟 END OF INTERNSHIP PROJECT COLLECTION 🌟
+\# ðŸŒŸ END OF INTERNSHIP PROJECT COLLECTION ðŸŒŸ
 
 
 
-\*\*5 Projects • Java • Web • React • GitHub\*\*
+\*\*5 Projects â€¢ Java â€¢ Web â€¢ React â€¢ GitHub\*\*
 
 
 
-\### Built with ☕ Java + 💻 Creativity + 🚀 Consistency
+\### Built with â˜• Java + ðŸ’» Creativity + ðŸš€ Consistency
 
 
 
 </div>
 
+
+---
+
+# 🌐 Deployment Status
+
+<div align="center">
+
+| Project | Java | Web | GitHub Pages |
+|---|:---:|:---:|:---:|
+| 🎯 Number Guessing Game | ✅ | ✅ | 🟢 Live |
+| 🎓 Student Grade Calculator | ✅ | ✅ | 🟢 Live |
+| 🏧 ATM Interface | ✅ | ✅ React | 🟢 Live |
+| 💱 Currency Converter | ✅ | ✅ | 🟢 Live |
+| 🔐 Password Generator | ✅ | ✅ | 🟢 Live |
+
+### 🏆 All 5 projects are deployed and accessible through GitHub Pages.
+
+**[🚀 Visit the Complete Project Dashboard](https://shankar-uxcloud.github.io/Java-mini-projects/)**
+
+</div>
