@@ -1154,7 +1154,7 @@ All five projects are available from one central dashboard.
 
 # 👨‍💻 Author
 
-**Shankar Sourav**
+**P SHANKAR**
 
 Java Programming Intern  
 SAM AI Technologies
