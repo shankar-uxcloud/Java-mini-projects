@@ -2,9 +2,8 @@
 
 <p align="center">
 
-### 🚀 Java Programming Internship Portfolio
+ 🚀 Java Programming 
 
-**SAM AI Technologies**
 
 From **Core Java → Console Applications → Web Applications → React → GitHub Actions → Live Deployment**
 
@@ -1156,8 +1155,7 @@ All five projects are available from one central dashboard.
 
 **P SHANKAR**
 
-Java Programming Intern  
-SAM AI Technologies
+Java Programming 
 
 ### GitHub
 
