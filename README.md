@@ -26,7 +26,7 @@ This repository contains **5 Java programming projects** developed as part of my
 
 The portfolio demonstrates my progression from fundamental Java programming concepts to interactive web interfaces, React-based development, version control, automated deployment, and GitHub Pages hosting.
 
-### 🎯 Internship Journey
+### 🎯  Journey
 
 ```text
 Core Java
