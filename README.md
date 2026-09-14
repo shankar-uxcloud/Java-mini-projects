@@ -1,2050 +1,1201 @@
-<div align="center">
+# ☕ Java Mini Projects
 
+<p align="center">
 
+### 🚀 Java Programming Internship Portfolio
 
-\# ðŸš€ Java Mini Projects
+**SAM AI Technologies**
 
-
-
-\### âœ¨ SAM AI Technologies â€” Java Programming Internship
-
-
+From **Core Java → Console Applications → Web Applications → React → GitHub Actions → Live Deployment**
 
 <p>
-
-<img src="https://img.shields.io/badge/Java-18%2B-orange?style=for-the-badge\&logo=openjdk\&logoColor=white">
-
-<img src="https://img.shields.io/badge/Projects-5-00C853?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Web%20Apps-5-2962FF?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/React-ATM-61DAFB?style=for-the-badge\&logo=react\&logoColor=111827">
-
-<img src="https://img.shields.io/badge/Internship-7C3AED?style=for-the-badge">
-
+  <a href="https://shankar-uxcloud.github.io/Java-mini-projects/">
+    <img src="https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Dashboard-111827?style=for-the-badge" alt="Live Portfolio">
+  </a>
+  <a href="https://github.com/shankar-uxcloud/Java-mini-projects">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
 </p>
 
-
-
-\### ðŸŒŒ From Core Java Logic â†’ Interactive Web Applications
-
-
-
-<p>
-
-
-
-\*\*Learn\*\* â†’ \*\*Build\*\* â†’ \*\*Test\*\* â†’ \*\*Validate\*\* â†’ \*\*Improve\*\* â†’ \*\*Showcase\*\*
-
-
-
 </p>
-
-
-
-</div>
-
-
-
-\---
-
-
-
-\# ðŸŒ  About This Repository
-
-
-
-Welcome to my \*\*Java Mini Projects\*\* repository.
-
-
-
-This repository contains \*\*five practical projects developed during my Java Programming Internship at SAM AI Technologies\*\*.
-
-
-
-The main objective of these projects was to take programming requirements and transform them into \*\*working applications\*\*, starting with core Java logic and gradually extending them into interactive browser-based experiences.
-
-
-
-\### ðŸ’¡ What this repository demonstrates
-
-
-
-```text
-
-Requirements
-
-&#x20;    â†“
-
-Understand the Problem
-
-&#x20;    â†“
-
-Design the Logic
-
-&#x20;    â†“
-
-Implement in Java
-
-&#x20;    â†“
-
-Validate User Input
-
-&#x20;    â†“
-
-Test the Application
-
-&#x20;    â†“
-
-Build Web Interface
-
-&#x20;    â†“
-
-Improve User Experience
-
-&#x20;    â†“
-
-Document \& Publish
-
-```
-
-
-
-The collection therefore represents more than five isolated programs.
-
-
-
-It shows a progression from:
-
-
-
-> \*\*Basic programming concepts â†’ problem solving â†’ application logic â†’ frontend development â†’ React\*\*
-
-
-
-\---
-
-
-
-\# ðŸŒŒ Project Journey
-
-
-
-<div align="center">
-
-
-
-```text
-
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-
-â•‘                 ðŸš€ JAVA INTERNSHIP JOURNEY              â•‘
-
-â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£
-
-â•‘                                                          â•‘
-
-â•‘  ðŸŽ¯ 01  NUMBER GUESSING GAME                            â•‘
-
-â•‘       Randomization â€¢ Conditions â€¢ Loops                â•‘
-
-â•‘                         â”‚                                â•‘
-
-â•‘                         â–¼                                â•‘
-
-â•‘  ðŸŽ“ 02  STUDENT GRADE CALCULATOR                        â•‘
-
-â•‘       Arrays â€¢ Validation â€¢ Calculations                 â•‘
-
-â•‘                         â”‚                                â•‘
-
-â•‘                         â–¼                                â•‘
-
-â•‘  ðŸ§ 03  ATM INTERFACE                                   â•‘
-
-â•‘       Methods â€¢ State â€¢ Transactions â€¢ React             â•‘
-
-â•‘                         â”‚                                â•‘
-
-â•‘                         â–¼                                â•‘
-
-â•‘  ðŸ’± 04  CURRENCY CONVERTER                              â•‘
-
-â•‘       Conversion Logic â€¢ UI Controls                    â•‘
-
-â•‘                         â”‚                                â•‘
-
-â•‘                         â–¼                                â•‘
-
-â•‘  ðŸ” 05  PASSWORD GENERATOR                              â•‘
-
-â•‘       Randomness â€¢ Character Sets â€¢ UX                  â•‘
-
-â•‘                         â”‚                                â•‘
-
-â•‘                         â–¼                                â•‘
-
-â•‘                ðŸ† INTERNSHIP COMPLETE                   â•‘
-
-â•‘                                                          â•‘
-
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-```
-
-
-
-\### âš¡ DEVELOPMENT PROGRESS
-
-
-
-`â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ` \*\*100%\*\*
-
-
-
-\### ðŸ† 5 / 5 PROJECTS COMPLETED
-
-
-
-</div>
-
-
-
-\---
-
-
-
-\# ðŸ“š Project Overview
-
-
-
-| # | Project | Main Concept | Java | Web |
-
-|:--:|---|---|:--:|:--:|
-
-| 01 | ðŸŽ¯ \*\*Number Guessing Game\*\* | Random numbers, conditions, loops | âœ… | âœ… |
-
-| 02 | ðŸŽ“ \*\*Student Grade Calculator\*\* | Arrays, calculations, validation | âœ… | âœ… |
-
-| 03 | ðŸ§ \*\*ATM Interface\*\* | Methods, state, transactions | âœ… | âœ… React |
-
-| 04 | ðŸ’± \*\*Currency Converter\*\* | Conversion logic, UI interaction | âœ… | âœ… |
-
-| 05 | ðŸ” \*\*Password Generator\*\* | Random generation, character sets | âœ… | âœ… |
-
-
-
-\---
-
-
-
-\# ðŸŽ¬ Demo Showcase
-
-
-
-<div align="center">
-
-
-
-\### ðŸŽ¯ Interactive Project Collection
-
-
-
-| Project | Console Experience | Browser Experience |
-
-|---|---|---|
-
-| ðŸŽ¯ Number Guessing Game | âœ… | âœ… |
-
-| ðŸŽ“ Student Grade Calculator | âœ… | âœ… |
-
-| ðŸ§ ATM Interface | âœ… | âœ… React |
-
-| ðŸ’± Currency Converter | âœ… | âœ… |
-
-| ðŸ” Password Generator | âœ… | âœ… |
-
-
-
-</div>
-
-
-
-> ðŸ“Œ The repository keeps the Java and web implementations organized separately so each version can be studied, executed and compared independently.
-
-
-
-\---
-
-
-
-\# ðŸŽ¯ 01 â€” NUMBER GUESSING GAME
-
-
-
-\## ðŸ“ Project Overview
-
-
-
-The \*\*Number Guessing Game\*\* is an interactive game where the application generates a random number and asks the user to guess it.
-
-
-
-After each attempt, the application gives feedback:
-
-
-
-```text
-
-â¬†ï¸ Too High
-
-â¬‡ï¸ Too Low
-
-ðŸŽ‰ Correct
-
-```
-
-
-
-The game continues until the correct number is guessed.
-
-
-
-\---
-
-
-
-\## ðŸ§  What I Implemented
-
-
-
-\- Random number generation
-
-\- Difficulty selection
-
-\- Easy mode
-
-\- Medium mode
-
-\- Hard mode
-
-\- User input using `Scanner`
-
-\- Comparison between user guess and generated number
-
-\- High / Low hints
-
-\- Attempt tracking
-
-\- Repeated guessing using loops
-
-\- Correct-answer detection
-
-\- Separate browser version
-
-
-
-\---
-
-
-
-\## ðŸŽšï¸ Difficulty Modes
-
-
-
-| Mode | Range |
-
-|---|---:|
-
-| ðŸŸ¢ Easy | 1 â€“ 50 |
-
-| ðŸŸ¡ Medium | 1 â€“ 100 |
-
-| ðŸ”´ Hard | 1 â€“ 1000 |
-
-
-
-\---
-
-
-
-\## ðŸ”„ Application Flow
-
-
-
-```text
-
-&#x20;            ðŸŽ® START
-
-&#x20;                â”‚
-
-&#x20;                â–¼
-
-&#x20;       Select Difficulty
-
-&#x20;                â”‚
-
-&#x20;                â–¼
-
-&#x20;       Generate Random Number
-
-&#x20;                â”‚
-
-&#x20;                â–¼
-
-&#x20;         Enter Your Guess
-
-&#x20;                â”‚
-
-&#x20;       â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”
-
-&#x20;       â”‚        â”‚        â”‚
-
-&#x20;       â–¼        â–¼        â–¼
-
-&#x20;    Too High  Too Low   Correct
-
-&#x20;       â”‚        â”‚        â”‚
-
-&#x20;       â””â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-
-&#x20;                â”‚
-
-&#x20;           Try Again
-
-&#x20;                â”‚
-
-&#x20;                â–¼
-
-&#x20;            ðŸŽ‰ WIN
-
-```
-
-
-
-\---
-
-
-
-\## â–¶ï¸ Run Java Version
-
-
-
-```powershell
-
-cd ".\\Number guessing game\\java version"
-
-javac numbergame.java
-
-java NumberGame
-
-```
-
-
-
-\---
-
-
-
-\## ðŸŒ Web Version
-
-
-
-Open:
-
-
-
-```text
-
-Number guessing game/web version/index.html
-
-```
-
-
-
-The web version recreates the game inside a browser using:
-
-
-
-```text
-
-HTML + CSS + JavaScript
-
-```
-
-
-
-\---
-
-
-
-\# ðŸŽ“ 02 â€” STUDENT GRADE CALCULATOR
-
-
-
-\## ðŸ“ Project Overview
-
-
-
-The \*\*Student Grade Calculator\*\* accepts marks for multiple subjects and calculates:
-
-
-
-```text
-
-Total Marks
-
-&#x20;     â†“
-
-Average Percentage
-
-&#x20;     â†“
-
-Final Grade
-
-```
-
-
-
-This project focuses on using arrays, loops, validation and mathematical calculations.
-
-
-
-\---
-
-
-
-\## ðŸ§  What I Implemented
-
-
-
-\- Dynamic subject count
-
-\- Array-based mark storage
-
-\- Subject-by-subject input
-
-\- Validation for marks
-
-\- Total marks calculation
-
-\- Average percentage calculation
-
-\- Grade classification
-
-\- Formatted result output
-
-\- Browser version
-
-
-
-\---
-
-
-
-\## ðŸ“Š Grade Logic
-
-
-
-```text
-
-90+            â†’ ðŸŸ¢ A
-
-75 â€“ 89.99     â†’ ðŸ”µ B
-
-50 â€“ 74.99     â†’ ðŸŸ¡ C
-
-Below 50       â†’ ðŸ”´ Fail
-
-```
-
-
-
-\---
-
-
-
-\## ðŸ”„ Calculation Flow
-
-
-
-```text
-
-Enter Number of Subjects
-
-&#x20;           â†“
-
-&#x20;     Enter Marks
-
-&#x20;           â†“
-
-&#x20;    Validate Input
-
-&#x20;           â†“
-
-&#x20;     Store in Array
-
-&#x20;           â†“
-
-&#x20;     Calculate Total
-
-&#x20;           â†“
-
-&#x20;    Calculate Average
-
-&#x20;           â†“
-
-&#x20;     Determine Grade
-
-&#x20;           â†“
-
-&#x20;      ðŸ“Š Display Result
-
-```
-
-
-
-\---
-
-
-
-\## â–¶ï¸ Run Java Version
-
-
-
-```powershell
-
-cd ".\\student grade calculator\\java version"
-
-javac StudentGradeCalculator.java
-
-java StudentGradeCalculator
-
-```
-
-
-
-\---
-
-
-
-\## ðŸŒ Web Version
-
-
-
-Open:
-
-
-
-```text
-
-student grade calculator/web version/index.html
-
-```
-
-
-
-\---
-
-
-
-\# ðŸ§ 03 â€” ATM INTERFACE
-
-
-
-\## ðŸ“ Project Overview
-
-
-
-The \*\*ATM Interface\*\* simulates common banking operations.
-
-
-
-The Java implementation focuses on programming logic and reusable methods, while the web version expands the idea into a richer interactive application.
-
-
-
-\---
-
-
-
-\## â˜• Java Implementation
-
-
-
-\### Features
-
-
-
-\- ðŸ’° Check balance
-
-\- âž• Deposit money
-
-\- âž– Withdraw money
-
-\- âš ï¸ Validate transaction amounts
-
-\- ðŸš« Prevent withdrawal above available balance
-
-\- ðŸ”„ Update account balance
-
-\- ðŸ§© Reusable methods
-
-\- ðŸ“œ Transaction messages
-
-
-
-\---
-
-
-
-\## âš›ï¸ React Web Implementation
-
-
-
-The React version adds a more complete interface.
-
-
-
-\### Features
-
-
-
-\- ðŸ’° Balance dashboard
-
-\- âž• Deposit flow
-
-\- âž– Withdraw flow
-
-\- âš¡ Quick amount buttons
-
-\- âœ… Input validation
-
-\- ðŸš« Insufficient balance handling
-
-\- ðŸ“œ Transaction history
-
-\- ðŸŒ™ Light / Dark mode
-
-\- ðŸ’¾ Theme persistence
-
-\- ðŸ“± Responsive design
-
-\- âš›ï¸ React + Vite architecture
-
-
-
-\---
-
-
-
-\## ðŸ”„ ATM Flow
-
-
-
-```text
-
-&#x20;                    ðŸ§ ATM
-
-&#x20;                      â”‚
-
-&#x20;         â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-
-&#x20;         â–¼            â–¼            â–¼
-
-&#x20;    ðŸ’° Balance     âž• Deposit    âž– Withdraw
-
-&#x20;         â”‚            â”‚            â”‚
-
-&#x20;         â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-
-&#x20;                      â–¼
-
-&#x20;                 âœ… Validation
-
-&#x20;                      â”‚
-
-&#x20;                      â–¼
-
-&#x20;                 ðŸ”„ Update State
-
-&#x20;                      â”‚
-
-&#x20;                      â–¼
-
-&#x20;                 ðŸ“œ Transaction
-
-&#x20;                      â”‚
-
-&#x20;                      â–¼
-
-&#x20;                 âœ… Result
-
-```
-
-
-
-\---
-
-
-
-\## â–¶ï¸ Run Java Version
-
-
-
-```powershell
-
-cd ".\\ATM Interface\\java version"
-
-javac ATMInterface.java
-
-java ATMInterface
-
-```
-
-
-
-\---
-
-
-
-\## âš›ï¸ Run React Version
-
-
-
-```powershell
-
-cd ".\\ATM Interface\\web version\\atm-react"
-
-npm install
-
-npm run dev
-
-```
-
-
-
-Vite will display the local development URL.
-
-
-
-Usually:
-
-
-
-```text
-
-http://localhost:5173/
-
-```
-
-
-
-\---
-
-
-
-\# ðŸ’± 04 â€” CURRENCY CONVERTER
-
-
-
-\## ðŸ“ Project Overview
-
-
-
-The \*\*Currency Converter\*\* accepts an amount, source currency and target currency, then calculates the converted result.
-
-
-
-\---
-
-
-
-\## ðŸŒ Supported Currencies
-
-
-
-```text
-
-USD
-
-INR
-
-EUR
-
-GBP
-
-JPY
-
-AUD
-
-```
-
-
-
-\---
-
-
-
-\## ðŸ§  What I Implemented
-
-
-
-\- Amount input
-
-\- Source currency selection
-
-\- Target currency selection
-
-\- Currency swap
-
-\- Conversion calculation
-
-\- Result display
-
-\- Responsive browser interface
-
-
-
-\---
-
-
-
-\## ðŸ”„ Conversion Pipeline
-
-
-
-```text
-
-&#x20;       Enter Amount
-
-&#x20;             â”‚
-
-&#x20;             â–¼
-
-&#x20;      Select Source
-
-&#x20;             â”‚
-
-&#x20;             â–¼
-
-&#x20;    Convert to USD Base
-
-&#x20;             â”‚
-
-&#x20;             â–¼
-
-&#x20;      Select Target
-
-&#x20;             â”‚
-
-&#x20;             â–¼
-
-&#x20;   Calculate Final Value
-
-&#x20;             â”‚
-
-&#x20;             â–¼
-
-&#x20;       ðŸ’± Result
-
-```
-
-
-
-> â„¹ï¸ The Java implementation uses predefined/sample exchange rates. It does not use a live currency API.
-
-
-
-\---
-
-
-
-\## â–¶ï¸ Run Java Version
-
-
-
-```powershell
-
-cd ".\\Currency Converter\\java version"
-
-javac CurrencyConverter.java
-
-java CurrencyConverter
-
-```
-
-
-
-\---
-
-
-
-\## ðŸŒ Web Version
-
-
-
-Open:
-
-
-
-```text
-
-Currency Converter/web version/index.html
-
-```
-
-
-
-\---
-
-
-
-\# ðŸ” 05 â€” PASSWORD GENERATOR
-
-
-
-\## ðŸ“ Project Overview
-
-
-
-The \*\*Password Generator\*\* creates randomized passwords based on the user's selected length and character types.
-
-
-
-\---
-
-
-
-\## ðŸ§© Character Options
-
-
-
-```text
-
-ðŸ”  Uppercase
-
-ðŸ”¡ Lowercase
-
-ðŸ”¢ Numbers
-
-ðŸ”£ Special Characters
-
-```
-
-
-
-\---
-
-
-
-\## ðŸ§  What I Implemented
-
-
-
-\- Custom password length
-
-\- Character-type selection
-
-\- Uppercase support
-
-\- Lowercase support
-
-\- Numeric characters
-
-\- Special characters
-
-\- Length validation
-
-\- Random character selection
-
-\- Character shuffling
-
-\- Password generation
-
-\- Copy-to-clipboard interaction
-
-\- Strength indicator
-
-\- Regenerate action
-
-
-
-\---
-
-
-
-\## ðŸ”„ Generation Pipeline
-
-
-
-```text
-
-&#x20;       Select Length
-
-&#x20;            +
-
-&#x20;     Select Characters
-
-&#x20;            â”‚
-
-&#x20;            â–¼
-
-&#x20;     Build Character Pool
-
-&#x20;            â”‚
-
-&#x20;            â–¼
-
-&#x20;      Random Selection
-
-&#x20;            â”‚
-
-&#x20;            â–¼
-
-&#x20;         Shuffle
-
-&#x20;            â”‚
-
-&#x20;            â–¼
-
-&#x20;     ðŸ” Final Password
-
-```
-
-
-
-\---
-
-
-
-\## â–¶ï¸ Run Java Version
-
-
-
-```powershell
-
-cd ".\\Password Generator\\java version"
-
-javac PasswordGenerator.java
-
-java PasswordGenerator
-
-```
-
-
-
-\---
-
-
-
-\## ðŸŒ Web Version
-
-
-
-Open:
-
-
-
-```text
-
-Password Generator/web version/index.html
-
-```
-
-
-
-\---
-
-
-
-\# ðŸ§ª Testing \& Validation
-
-
-
-One of the important parts of the projects was not only making the programs work, but also handling incorrect input.
-
-
-
-Examples include:
-
-
-
-| Project | Validation |
-
-|---|---|
-
-| ðŸŽ¯ Guessing Game | Guess interaction and game progression |
-
-| ðŸŽ“ Grade Calculator | Marks must stay within `0â€“100` |
-
-| ðŸ§ ATM | Invalid amounts and insufficient balance |
-
-| ðŸ’± Currency Converter | Amount and currency selection |
-
-| ðŸ” Password Generator | Valid password-length range |
-
-
-
-\---
-
-
-
-\# ðŸ§  Concepts Practiced
-
-
-
-\## â˜• Core Java
-
-
-
-```text
-
-Variables
-
-Data Types
-
-Operators
-
-if / else
-
-switch
-
-for loops
-
-while loops
-
-do-while loops
-
-Arrays
-
-Methods
-
-Classes
-
-Scanner
-
-Random
-
-```
-
-
-
-\---
-
-
-
-\## ðŸ§© Programming \& Problem Solving
-
-
-
-```text
-
-Input Validation
-
-Conditional Logic
-
-Loops
-
-State Updates
-
-Calculations
-
-Randomization
-
-User Interaction
-
-Error Handling
-
-```
-
-
-
-\---
-
-
-
-\## ðŸŒ Frontend Development
-
-
-
-```text
-
-HTML5
-
-CSS3
-
-JavaScript
-
-DOM Interaction
-
-Event Handling
-
-Responsive Layouts
-
-User Feedback
-
-```
-
-
-
-\---
-
-
-
-\## âš›ï¸ React Development
-
-
-
-```text
-
-React Components
-
-State
-
-Events
-
-Conditional Rendering
-
-UI State
-
-localStorage
-
-Vite
-
-npm
-
-```
-
-
-
-\---
-
-
-
-\# ðŸ› ï¸ Technology Stack
-
-
-
-<div align="center">
-
-
-
-| Technology | Purpose |
-
-|---|---|
-
-| â˜• \*\*Java\*\* | Core application logic |
-
-| ðŸŒ \*\*HTML5\*\* | Web structure |
-
-| ðŸŽ¨ \*\*CSS3\*\* | Styling and responsive design |
-
-| âš¡ \*\*JavaScript\*\* | Browser interaction |
-
-| âš›ï¸ \*\*React\*\* | ATM web application |
-
-| ðŸš€ \*\*Vite\*\* | React development environment |
-
-| ðŸ“¦ \*\*npm\*\* | Dependency management |
-
-| ðŸ”§ \*\*Git\*\* | Version control |
-
-| ðŸ™ \*\*GitHub\*\* | Repository \& project showcase |
-
-
-
-</div>
-
-
-
-\---
-
-
-
-\# ðŸ“ Repository Structure
-
-
-
-```text
-
-Java-mini-projects/
-
-â”‚
-
-â”œâ”€â”€ ðŸŽ¯ Number guessing game/
-
-â”‚   â”œâ”€â”€ java version/
-
-â”‚   â”‚   â””â”€â”€ numbergame.java
-
-â”‚   â”‚
-
-â”‚   â””â”€â”€ web version/
-
-â”‚       â”œâ”€â”€ index.html
-
-â”‚       â”œâ”€â”€ script.js
-
-â”‚       â””â”€â”€ style.css
-
-â”‚
-
-â”œâ”€â”€ ðŸŽ“ student grade calculator/
-
-â”‚   â”œâ”€â”€ java version/
-
-â”‚   â”‚   â””â”€â”€ StudentGradeCalculator.java
-
-â”‚   â”‚
-
-â”‚   â””â”€â”€ web version/
-
-â”‚       â”œâ”€â”€ index.html
-
-â”‚       â”œâ”€â”€ script.js
-
-â”‚       â””â”€â”€ style.css
-
-â”‚
-
-â”œâ”€â”€ ðŸ§ ATM Interface/
-
-â”‚   â”œâ”€â”€ java version/
-
-â”‚   â”‚   â””â”€â”€ ATMInterface.java
-
-â”‚   â”‚
-
-â”‚   â””â”€â”€ web version/
-
-â”‚       â”œâ”€â”€ index.html
-
-â”‚       â”œâ”€â”€ script.js
-
-â”‚       â”œâ”€â”€ style.css
-
-â”‚       â”‚
-
-â”‚       â””â”€â”€ atm-react/
-
-â”‚           â”œâ”€â”€ public/
-
-â”‚           â”œâ”€â”€ src/
-
-â”‚           â”œâ”€â”€ package.json
-
-â”‚           â””â”€â”€ vite.config.js
-
-â”‚
-
-â”œâ”€â”€ ðŸ’± Currency Converter/
-
-â”‚   â”œâ”€â”€ java version/
-
-â”‚   â”‚   â””â”€â”€ CurrencyConverter.java
-
-â”‚   â”‚
-
-â”‚   â””â”€â”€ web version/
-
-â”‚       â”œâ”€â”€ index.html
-
-â”‚       â”œâ”€â”€ script.js
-
-â”‚       â””â”€â”€ style.css
-
-â”‚
-
-â”œâ”€â”€ ðŸ” Password Generator/
-
-â”‚   â”œâ”€â”€ java version/
-
-â”‚   â”‚   â””â”€â”€ PasswordGenerator.java
-
-â”‚   â”‚
-
-â”‚   â””â”€â”€ web version/
-
-â”‚       â”œâ”€â”€ index.html
-
-â”‚       â”œâ”€â”€ script.js
-
-â”‚       â””â”€â”€ style.css
-
-â”‚
-
-â”œâ”€â”€ .gitignore
-
-â””â”€â”€ README.md
-
-```
-
-
-
-\---
-
-
-
-\# âš¡ How to Run the Repository
-
-
-
-\## 1ï¸âƒ£ Clone the Repository
-
-
-
-```powershell
-
-git clone https://github.com/shankar-uxcloud/Java-mini-projects.git
-
-cd Java-mini-projects
-
-```
-
-
-
-\---
-
-
-
-\## 2ï¸âƒ£ Verify Java
-
-
-
-Install \*\*JDK 17 or newer\*\*.
-
-
-
-```powershell
-
-java -version
-
-javac -version
-
-```
-
-
-
-\---
-
-
-
-\## 3ï¸âƒ£ Run a Java Project
-
-
-
-\### Number Guessing Game
-
-
-
-```powershell
-
-cd ".\\Number guessing game\\java version"
-
-javac numbergame.java
-
-java NumberGame
-
-```
-
-
-
-\### Student Grade Calculator
-
-
-
-```powershell
-
-cd ".\\student grade calculator\\java version"
-
-javac StudentGradeCalculator.java
-
-java StudentGradeCalculator
-
-```
-
-
-
-\### ATM Interface
-
-
-
-```powershell
-
-cd ".\\ATM Interface\\java version"
-
-javac ATMInterface.java
-
-java ATMInterface
-
-```
-
-
-
-\### Currency Converter
-
-
-
-```powershell
-
-cd ".\\Currency Converter\\java version"
-
-javac CurrencyConverter.java
-
-java CurrencyConverter
-
-```
-
-
-
-\### Password Generator
-
-
-
-```powershell
-
-cd ".\\Password Generator\\java version"
-
-javac PasswordGenerator.java
-
-java PasswordGenerator
-
-```
-
-
-
-\---
-
-
-
-\# ðŸŒ Running the Web Versions
-
-
-
-The following projects can be opened directly in a modern browser:
-
-
-
-```text
-
-ðŸŽ¯ Number Guessing Game
-
-ðŸŽ“ Student Grade Calculator
-
-ðŸ’± Currency Converter
-
-ðŸ” Password Generator
-
-```
-
-
-
-Open:
-
-
-
-```text
-
-PROJECT/web version/index.html
-
-```
-
-
-
-\---
-
-
-
-\# âš›ï¸ Running the ATM React Application
-
-
-
-Open PowerShell:
-
-
-
-```powershell
-
-cd ".\\ATM Interface\\web version\\atm-react"
-
-```
-
-
-
-Install dependencies:
-
-
-
-```powershell
-
-npm install
-
-```
-
-
-
-Start development server:
-
-
-
-```powershell
-
-npm run dev
-
-```
-
-
-
-Then open the URL displayed by Vite.
-
-
-
-\---
-
-
-
-\# ðŸ“Š Completion Dashboard
-
-
-
-<div align="center">
-
-
-
-| Project | Java | Web | Status |
-
-|:--|:--:|:--:|:--:|
-
-| ðŸŽ¯ Number Guessing Game | âœ… | âœ… | ðŸŸ¢ Complete |
-
-| ðŸŽ“ Student Grade Calculator | âœ… | âœ… | ðŸŸ¢ Complete |
-
-| ðŸ§ ATM Interface | âœ… | âœ… React | ðŸŸ¢ Complete |
-
-| ðŸ’± Currency Converter | âœ… | âœ… | ðŸŸ¢ Complete |
-
-| ðŸ” Password Generator | âœ… | âœ… | ðŸŸ¢ Complete |
-
-
-
-<br>
-
-
-
-\## ðŸ† 5 / 5 PROJECTS COMPLETE
-
-
-
-`â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ`
-
-
-
-\### \*\*100%\*\*
-
-
-
-</div>
-
-
-
-\---
-
-
-
-\# ðŸŒŒ From Console â†’ Web â†’ React
-
-
-
-This repository also reflects an important progression in my development process.
-
-
-
-```text
-
-&#x20;               â˜• JAVA
-
-&#x20;                 â”‚
-
-&#x20;                 â–¼
-
-&#x20;         Core Programming Logic
-
-&#x20;                 â”‚
-
-&#x20;                 â–¼
-
-&#x20;          Input \& Validation
-
-&#x20;                 â”‚
-
-&#x20;                 â–¼
-
-&#x20;         Working Console Apps
-
-&#x20;                 â”‚
-
-&#x20;                 â–¼
-
-&#x20;         ðŸŒ Web Interfaces
-
-&#x20;                 â”‚
-
-&#x20;                 â–¼
-
-&#x20;     Responsive User Experience
-
-&#x20;                 â”‚
-
-&#x20;                 â–¼
-
-&#x20;       âš›ï¸ React Application
-
-&#x20;                 â”‚
-
-&#x20;                 â–¼
-
-&#x20;           ðŸš€ PROJECT SHOWCASE
-
-```
-
-
-
-The journey was not about simply writing code.
-
-
-
-It was about learning how to take an idea from:
-
-
-
-> \*\*Requirement â†’ Logic â†’ Implementation â†’ Validation â†’ Interface â†’ Documentation\*\*
-
-
-
-\---
-
-
-
-\# ðŸŽ“ Internship Outcome
-
-
-
-During this internship, these projects helped me practice how to:
-
-
-
-\- Convert requirements into working programs
-
-\- Break problems into smaller logical steps
-
-\- Use Java fundamentals in practical applications
-
-\- Handle user input and invalid data
-
-\- Build reusable methods
-
-\- Work with arrays and calculations
-
-\- Generate randomized values
-
-\- Build browser interfaces
-
-\- Improve user experience through responsive layouts
-
-\- Work with React and Vite
-
-\- Manage source code with Git
-
-\- Publish projects on GitHub
-
-\- Document applications clearly
-
-
-
-\---
-
-
-
-\# ðŸš€ What I Learned
-
-
-
-\### 01 â€” Think Before Coding
-
-
-
-Understand the requirement and define the flow before writing implementation code.
-
-
-
-\### 02 â€” Validate Everything
-
-
-
-User input should not be blindly trusted.
-
-
-
-\### 03 â€” Build Incrementally
-
-
-
-Start with the core logic, test it, and then improve the interface.
-
-
-
-\### 04 â€” Focus on User Experience
-
-
-
-A working program becomes more useful when it is understandable and easy to interact with.
-
-
-
-\### 05 â€” Document the Work
-
-
-
-A project should explain not only \*\*what it does\*\*, but also \*\*how it was built and how someone else can run it\*\*.
-
-
-
-\---
-
-
-
-\# ðŸ’Ž Project Philosophy
-
-
-
-<div align="center">
-
-
-
-```text
-
-&#x20;          ðŸ’¡ IDEA
-
-&#x20;            â†“
-
-&#x20;       ðŸ§  THINK
-
-&#x20;            â†“
-
-&#x20;       ðŸ’» BUILD
-
-&#x20;            â†“
-
-&#x20;       ðŸ§ª TEST
-
-&#x20;            â†“
-
-&#x20;       âœ… VALIDATE
-
-&#x20;            â†“
-
-&#x20;       ðŸŽ¨ IMPROVE
-
-&#x20;            â†“
-
-&#x20;       ðŸ“š DOCUMENT
-
-&#x20;            â†“
-
-&#x20;       ðŸš€ PUBLISH
-
-```
-
-
-
-\### BUILDING SOFTWARE, ONE PROJECT AT A TIME.
-
-
-
-</div>
-
-
-
-\---
-
-
-
-\# ðŸ‘¨â€ðŸ’» Author
-
-
-
-<div align="center">
-
-
-
-\## \*\* P SHANKAR \*\*
-
-
-
-<a href="https://github.com/shankar-uxcloud">
-
-<img src="https://img.shields.io/badge/GitHub-shankar--uxcloud-181717?style=for-the-badge\&logo=github">
-
-</a>
-
-
-
-<br><br>
-
-
-
-\### ðŸš€ Learn â€¢ Build â€¢ Test â€¢ Improve â€¢ Ship
-
-
-
-â­ \*\*Thanks for exploring my internship projects!\*\*
-
-
-
-</div>
-
-
-
-\---
-
-
-
-<div align="center">
-
-
-
-\# ðŸŒŸ END OF INTERNSHIP PROJECT COLLECTION ðŸŒŸ
-
-
-
-\*\*5 Projects â€¢ Java â€¢ Web â€¢ React â€¢ GitHub\*\*
-
-
-
-\### Built with â˜• Java + ðŸ’» Creativity + ðŸš€ Consistency
-
-
-
-</div>
-
 
 ---
 
-# 🌐 Deployment Status
+## ✨ About This Repository
 
-<div align="center">
+This repository contains **5 Java programming projects** developed as part of my **Java Programming Internship at SAM AI Technologies**.
 
-| Project | Java | Web | GitHub Pages |
-|---|:---:|:---:|:---:|
-| 🎯 Number Guessing Game | ✅ | ✅ | 🟢 Live |
-| 🎓 Student Grade Calculator | ✅ | ✅ | 🟢 Live |
-| 🏧 ATM Interface | ✅ | ✅ React | 🟢 Live |
-| 💱 Currency Converter | ✅ | ✅ | 🟢 Live |
-| 🔐 Password Generator | ✅ | ✅ | 🟢 Live |
+The portfolio demonstrates my progression from fundamental Java programming concepts to interactive web interfaces, React-based development, version control, automated deployment, and production-ready GitHub Pages hosting.
 
-### 🏆 All 5 projects are deployed and accessible through GitHub Pages.
+### 🎯 Internship Journey
 
-**[🚀 Visit the Complete Project Dashboard](https://shankar-uxcloud.github.io/Java-mini-projects/)**
+```text
+Core Java
+    ↓
+Problem Solving
+    ↓
+Console Applications
+    ↓
+HTML / CSS / JavaScript
+    ↓
+Interactive Web Applications
+    ↓
+React + Vite
+    ↓
+Git + GitHub
+    ↓
+GitHub Actions
+    ↓
+GitHub Pages
+    ↓
+Live Portfolio
+```
 
-</div>
+---
+
+## 📊 Portfolio Highlights
+
+| Metric | Result |
+|---|---:|
+| ☕ Java Projects | **5** |
+| 🌐 Web Demos | **5** |
+| ⚛️ React Projects | **1** |
+| 🚀 Live Deployments | **5** |
+| 🔄 CI/CD | **GitHub Actions** |
+| 📄 Internship Focus | **Java Programming** |
+| 🎯 Portfolio Dashboard | **Available** |
+
+---
+
+# 🚀 Live Project Showcase
+
+| # | Project | Java Source | 🌐 Working Demo |
+|---:|---|---|---|
+| 01 | 🎯 Number Guessing Game | [Source](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/Number%20guessing%20game) | [**🚀 Open Working Demo →**](https://shankar-uxcloud.github.io/Java-mini-projects/number-guessing/) |
+| 02 | 🎓 Student Grade Calculator | [Source](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/student%20grade%20calculator) | [**🚀 Open Working Demo →**](https://shankar-uxcloud.github.io/Java-mini-projects/student-grade-calculator/) |
+| 03 | 🏧 ATM Interface | [Source](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/ATM%20Interface) | [**🚀 Open Working Demo →**](https://shankar-uxcloud.github.io/Java-mini-projects/atm/) |
+| 04 | 💱 Currency Converter | [Source](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/Currency%20Converter) | [**🚀 Open Working Demo →**](https://shankar-uxcloud.github.io/Java-mini-projects/currency-converter/) |
+| 05 | 🔐 Password Generator | [Source](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/Password%20Generator) | [**🚀 Open Working Demo →**](https://shankar-uxcloud.github.io/Java-mini-projects/password-generator/) |
+
+### 🌟 Complete Portfolio
+
+**[🚀 Open Java Mini Projects Dashboard](https://shankar-uxcloud.github.io/Java-mini-projects/)**
+
+---
+
+# 🔗 All Working Project Links
+
+| Project | 🌐 Live Application |
+|---|---|
+| 🎯 Number Guessing Game | [**Open Working Application →**](https://shankar-uxcloud.github.io/Java-mini-projects/number-guessing/) |
+| 🎓 Student Grade Calculator | [**Open Working Application →**](https://shankar-uxcloud.github.io/Java-mini-projects/student-grade-calculator/) |
+| 🏧 ATM Interface | [**Open Working Application →**](https://shankar-uxcloud.github.io/Java-mini-projects/atm/) |
+| 💱 Currency Converter | [**Open Working Application →**](https://shankar-uxcloud.github.io/Java-mini-projects/currency-converter/) |
+| 🔐 Password Generator | [**Open Working Application →**](https://shankar-uxcloud.github.io/Java-mini-projects/password-generator/) |
+
+---
+
+# 🧩 Projects
+
+## 01 — 🎯 Number Guessing Game
+
+A console-based Java game where the program generates a random number and the player repeatedly guesses until the correct number is found.
+
+### 🎮 Difficulty Levels
+
+| Level | Number Range |
+|---|---|
+| 🟢 Easy | 1 – 50 |
+| 🟡 Medium | 1 – 100 |
+| 🔴 Hard | 1 – 1000 |
+
+### Core Features
+
+- Random number generation
+- User input using `Scanner`
+- Too High / Too Low feedback
+- Correct-answer detection
+- Repeated guessing using loops
+- Difficulty selection
+- Attempt tracking
+
+### Java Concepts
+
+- `Random`
+- `Scanner`
+- `if / else`
+- `switch`
+- `while` loops
+- Variables and data types
+- Methods
+- User interaction
+
+### Run Locally
+
+```bash
+cd "Number guessing game/java version"
+javac numbergame.java
+java NumberGame
+```
+
+### 🌐 Working Web Application
+
+**[🚀 Launch Number Guessing Game](https://shankar-uxcloud.github.io/Java-mini-projects/number-guessing/)**
+
+### 💻 Source Code
+
+**[View Number Guessing Game Source](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/Number%20guessing%20game)**
+
+---
+
+## 02 — 🎓 Student Grade Calculator
+
+A Java application that accepts subject marks, calculates the total and average, and determines the corresponding grade.
+
+### 📐 Grade System
+
+| Average | Grade |
+|---:|:---:|
+| 90 – 100 | **A** |
+| 75 – 89.99 | **B** |
+| 50 – 74.99 | **C** |
+| Below 50 | **Fail** |
+
+### Core Features
+
+- Multiple-subject mark input
+- Total marks calculation
+- Average percentage calculation
+- Automatic grade classification
+- Marks validation
+- Clear formatted output
+
+### Example
+
+```text
+Subject Marks:
+90
+99
+99
+92
+
+Total   : 380
+Average : 95.00%
+Grade   : A
+```
+
+### Run Locally
+
+```bash
+cd "student grade calculator/java version"
+javac StudentGradeCalculator.java
+java StudentGradeCalculator
+```
+
+### 🌐 Working Web Application
+
+**[🚀 Launch Student Grade Calculator](https://shankar-uxcloud.github.io/Java-mini-projects/student-grade-calculator/)**
+
+### 💻 Source Code
+
+**[View Student Grade Calculator Source](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/student%20grade%20calculator)**
+
+---
+
+## 03 — 🏧 ATM Interface
+
+A console-based ATM simulation implemented in Java and extended into a modern React web application.
+
+### 💳 Java Features
+
+- Check balance
+- Deposit money
+- Withdraw money
+- Invalid amount handling
+- Insufficient balance handling
+- Menu-driven interface
+- Continuous operation until exit
+
+### Starting Balance
+
+```text
+₹5,000.00
+```
+
+### ⚛️ React Web Features
+
+- Balance dashboard
+- Deposit modal
+- Withdrawal modal
+- Transaction history
+- Quick amount buttons
+- Input validation
+- Insufficient balance protection
+- Exit action
+- Light / dark theme
+- Theme persistence with `localStorage`
+- Responsive layout
+- React + Vite architecture
+
+### Run Java Version
+
+```bash
+cd "ATM Interface/java version"
+javac ATMInterface.java
+java ATMInterface
+```
+
+### Run React Version
+
+```bash
+cd "ATM Interface/web version/atm-react"
+npm install
+npm run dev
+```
+
+### Production Build
+
+```bash
+npm run build
+```
+
+### 🌐 Working Web Application
+
+**[🚀 Launch ATM Interface](https://shankar-uxcloud.github.io/Java-mini-projects/atm/)**
+
+### 💻 Source Code
+
+**[View ATM Interface Source](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/ATM%20Interface)**
+
+---
+
+## 04 — 💱 Currency Converter
+
+A Java-based currency conversion application using predefined exchange rates, accompanied by an interactive web interface.
+
+### 💰 Supported Currencies
+
+- USD — US Dollar
+- INR — Indian Rupee
+- EUR — Euro
+- GBP — British Pound
+- JPY — Japanese Yen
+- AUD — Australian Dollar
+
+### Reference Rates
+
+The application uses predefined rates based on **1 USD**:
+
+| Currency | Rate |
+|---|---:|
+| USD | 1.00 |
+| INR | 83.00 |
+| EUR | 0.92 |
+| GBP | 0.79 |
+| JPY | 149.00 |
+| AUD | 1.53 |
+
+> **Note:** These are predefined application rates and are **not live market exchange rates**.
+
+### Conversion Logic
+
+```text
+Source Currency
+      ↓
+Convert to USD
+      ↓
+Convert to Target Currency
+      ↓
+Display Result
+```
+
+### Example
+
+```text
+100 INR ≈ 1.20 USD
+```
+
+### Core Features
+
+- Multiple currency support
+- Source currency selection
+- Target currency selection
+- Amount input
+- Currency swap
+- Conversion calculation
+- Result display
+- Exchange-rate display
+- Responsive web interface
+
+### Run Locally
+
+```bash
+cd "Currency Converter/java version"
+javac CurrencyConverter.java
+java CurrencyConverter
+```
+
+### 🌐 Working Web Application
+
+**[🚀 Launch Currency Converter](https://shankar-uxcloud.github.io/Java-mini-projects/currency-converter/)**
+
+### 💻 Source Code
+
+**[View Currency Converter Source](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/Currency%20Converter)**
+
+---
+
+## 05 — 🔐 Password Generator
+
+A secure-style random password generation application built in Java and extended into an interactive web interface.
+
+### ⚙️ Customization
+
+Users can select:
+
+- Password length
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
+
+### Length
+
+```text
+Minimum: 4
+Maximum: 100
+```
+
+### Core Features
+
+- Custom password length
+- Character-category selection
+- Random password generation
+- Category validation
+- Password shuffling
+- Password regeneration
+- Copy-to-clipboard
+- Password strength indicator
+- Responsive interface
+- Input validation
+
+### Generation Logic
+
+```text
+Select Length
+      ↓
+Select Character Categories
+      ↓
+Guarantee Selected Categories
+      ↓
+Fill Remaining Characters Randomly
+      ↓
+Shuffle Password
+      ↓
+Display Password
+```
+
+### Run Locally
+
+```bash
+cd "Password Generator/java version"
+javac PasswordGenerator.java
+java PasswordGenerator
+```
+
+### 🌐 Working Web Application
+
+**[🚀 Launch Password Generator](https://shankar-uxcloud.github.io/Java-mini-projects/password-generator/)**
+
+### 💻 Source Code
+
+**[View Password Generator Source](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/Password%20Generator)**
+
+---
+
+# 🧠 Project Overview
+
+| Project | Primary Concept | Web Technology | Difficulty |
+|---|---|---|---|
+| 🎯 Number Guessing | Randomization + Loops | HTML/CSS/JS | Beginner |
+| 🎓 Grade Calculator | Calculations + Validation | HTML/CSS/JS | Beginner |
+| 🏧 ATM Interface | State + Transactions | React + Vite | Intermediate |
+| 💱 Currency Converter | Conversion Logic | HTML/CSS/JS | Beginner |
+| 🔐 Password Generator | Randomization + Validation | HTML/CSS/JS | Intermediate |
+
+---
+
+# 🛠️ Technology Stack
+
+## ☕ Programming
+
+- Java
+- Object-oriented programming fundamentals
+- Console I/O
+- Conditional logic
+- Loops
+- Arrays
+- Methods
+- Input validation
+- Randomization
+
+## 🌐 Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+## ⚛️ Modern Web
+
+- React
+- Vite
+- JavaScript ES6+
+- Browser `localStorage`
+- Clipboard API
+
+## 🔧 Development Tools
+
+- Git
+- GitHub
+- GitHub Pages
+- GitHub Actions
+- npm
+- Node.js
+- JDK
+
+---
+
+# 📁 Repository Structure
+
+```text
+Java-mini-projects/
+│
+├── .github/
+│   └── workflows/
+│       └── deploy-number-guessing.yml
+│
+├── GitHub Pages/
+│   └── index.html
+│
+├── Number guessing game/
+│   ├── java version/
+│   │   └── numbergame.java
+│   └── web version/
+│
+├── student grade calculator/
+│   ├── java version/
+│   │   └── StudentGradeCalculator.java
+│   └── web version/
+│
+├── ATM Interface/
+│   ├── java version/
+│   │   └── ATMInterface.java
+│   └── web version/
+│       └── atm-react/
+│
+├── Currency Converter/
+│   ├── java version/
+│   │   └── CurrencyConverter.java
+│   └── web version/
+│
+├── Password Generator/
+│   ├── java version/
+│   │   └── PasswordGenerator.java
+│   └── web version/
+│
+├── .gitignore
+└── README.md
+```
+
+---
+
+# ▶️ Run the Java Projects Locally
+
+## 🔍 Verify Java Installation
+
+```bash
+java -version
+javac -version
+```
+
+## 🎯 Number Guessing Game
+
+```bash
+cd "Number guessing game/java version"
+javac numbergame.java
+java NumberGame
+```
+
+## 🎓 Student Grade Calculator
+
+```bash
+cd "student grade calculator/java version"
+javac StudentGradeCalculator.java
+java StudentGradeCalculator
+```
+
+## 🏧 ATM Interface
+
+```bash
+cd "ATM Interface/java version"
+javac ATMInterface.java
+java ATMInterface
+```
+
+## 💱 Currency Converter
+
+```bash
+cd "Currency Converter/java version"
+javac CurrencyConverter.java
+java CurrencyConverter
+```
+
+## 🔐 Password Generator
+
+```bash
+cd "Password Generator/java version"
+javac PasswordGenerator.java
+java PasswordGenerator
+```
+
+---
+
+# ⚛️ Run the ATM React Application
+
+```bash
+cd "ATM Interface/web version/atm-react"
+npm install
+npm run dev
+```
+
+For a production build:
+
+```bash
+npm run build
+```
+
+---
+
+# 🧪 Testing & Validation
+
+### 🎯 Number Guessing
+
+- Difficulty selection
+- Random target generation
+- High / low feedback
+- Correct guess
+- Repeated attempts
+
+### 🎓 Grade Calculator
+
+- Valid marks
+- Invalid marks
+- Total calculation
+- Average calculation
+- Grade classification
+
+### 🏧 ATM
+
+- Balance display
+- Deposits
+- Withdrawals
+- Invalid amounts
+- Insufficient balance
+- Transaction history
+- Exit behavior
+- Responsive web interface
+- Theme persistence
+
+### 💱 Currency Converter
+
+- Currency selection
+- Amount input
+- Source-to-target conversion
+- Swap functionality
+- Result calculation
+- Supported currency combinations
+
+### 🔐 Password Generator
+
+- Minimum and maximum length
+- Character-category selection
+- Generated password length
+- Selected category inclusion
+- Regeneration
+- Copy action
+- Strength indication
+
+---
+
+# 🔒 Validation Strategy
+
+Input validation is used to make the applications more reliable.
+
+```text
+Invalid Input
+     ↓
+Validate
+     ↓
+Reject
+     ↓
+Ask User Again
+```
+
+```text
+Withdrawal > Balance
+     ↓
+Reject Transaction
+     ↓
+Show Insufficient Balance
+```
+
+```text
+Password Length Outside 4–100
+     ↓
+Reject Input
+     ↓
+Request Valid Length
+```
+
+---
+
+# 📈 Development Journey
+
+This portfolio represents a progression through multiple layers of development.
+
+### Phase 1 — Core Java
+
+- Variables
+- Data types
+- Operators
+- Conditions
+- Loops
+- Methods
+- Arrays
+- Input/output
+
+### Phase 2 — Console Applications
+
+Applied those concepts to practical programs:
+
+- Games
+- Calculators
+- Financial simulations
+- Conversion tools
+- Generators
+
+### Phase 3 — Web Interfaces
+
+Converted programming ideas into interactive browser applications using:
+
+- HTML
+- CSS
+- JavaScript
+
+### Phase 4 — React
+
+Extended the ATM application into a component-based React application using Vite.
+
+### Phase 5 — Deployment
+
+Worked with:
+
+- Git
+- GitHub
+- GitHub Actions
+- GitHub Pages
+
+### Phase 6 — Portfolio
+
+Combined the projects into a centralized live portfolio dashboard.
+
+---
+
+# 🔄 From Console → Web → Production
+
+```text
+Java Logic
+   │
+   ▼
+Console Application
+   │
+   ▼
+Web Interface
+   │
+   ▼
+Interactive UX
+   │
+   ▼
+React / Vite
+   │
+   ▼
+Git Version Control
+   │
+   ▼
+GitHub Actions
+   │
+   ▼
+GitHub Pages
+   │
+   ▼
+Live Portfolio
+```
+
+---
+
+# 🚀 GitHub Pages Deployment Architecture
+
+The repository uses GitHub Actions to prepare and deploy the portfolio.
+
+```text
+Git Push
+   │
+   ▼
+GitHub Actions
+   │
+   ├── Copy static web projects
+   │
+   ├── Install ATM dependencies
+   │
+   ├── Build React application
+   │
+   ├── Prepare deployment directory
+   │
+   ├── Upload Pages artifact
+   │
+   └── Deploy
+         │
+         ▼
+   GitHub Pages
+         │
+         ▼
+   Live Portfolio
+```
+
+---
+
+# 🔄 CI/CD Flow
+
+```text
+Developer
+   ↓
+Edit Project
+   ↓
+Test Locally
+   ↓
+Git Commit
+   ↓
+Git Push
+   ↓
+GitHub Actions
+   ↓
+Build + Prepare Site
+   ↓
+GitHub Pages Deployment
+   ↓
+Live Demo
+```
+
+---
+
+# 🎯 Skills Demonstrated
+
+| Skill | Demonstrated Through |
+|---|---|
+| Java fundamentals | All 5 projects |
+| Problem solving | All projects |
+| Input validation | Grade Calculator, ATM, Password Generator |
+| Randomization | Number Guessing, Password Generator |
+| Loops | Number Guessing, ATM |
+| Arrays | Grade Calculator |
+| Calculations | Grade Calculator, Currency Converter |
+| State handling | ATM |
+| Responsive UI | Web projects |
+| React | ATM |
+| Vite | ATM |
+| Git | Repository development |
+| GitHub | Source control |
+| GitHub Actions | Automated deployment |
+| GitHub Pages | Live hosting |
+| Documentation | README + dashboard |
+
+---
+
+# 💡 What These Projects Demonstrate
+
+These projects demonstrate the ability to:
+
+- Translate requirements into working programs
+- Apply Java programming fundamentals
+- Handle user input and validation
+- Build practical console applications
+- Create interactive browser interfaces
+- Work with React and Vite
+- Use Git and GitHub
+- Configure automated deployment
+- Publish projects online
+- Document technical work professionally
+
+---
+
+# 🏆 Internship Outcome
+
+Through these projects, I practiced:
+
+- Java programming
+- Programming fundamentals
+- Console application development
+- Input validation
+- Problem solving
+- Frontend development
+- Responsive UI design
+- React development
+- Git and GitHub
+- CI/CD fundamentals
+- GitHub Pages deployment
+- Technical documentation
+
+The final result is a portfolio that combines **code, interfaces, deployment, and documentation** rather than isolated source files.
+
+---
+
+# 📊 Portfolio Statistics
+
+```text
+┌───────────────────────────────────────┐
+│          JAVA MINI PROJECTS           │
+├───────────────────────────────────────┤
+│                                       │
+│  ☕ Java Projects             05      │
+│  🌐 Web Applications          05      │
+│  ⚛️ React Applications        01      │
+│  🚀 Live Demos                05      │
+│  🔄 CI/CD                     01      │
+│  📄 Internship Portfolio      01      │
+│                                       │
+└───────────────────────────────────────┘
+```
+
+---
+
+# 🌐 Portfolio Dashboard
+
+The portfolio dashboard acts as the central entry point for the complete project collection.
+
+### Features
+
+- Project cards
+- Project descriptions
+- Live demo links
+- Source-code links
+- Responsive layout
+- Centralized navigation
+- Professional presentation
+
+### 🔗 Open Dashboard
+
+**[🚀 Visit Java Mini Projects Dashboard](https://shankar-uxcloud.github.io/Java-mini-projects/)**
+
+---
+
+# 🔗 Quick Links
+
+## 🌐 Live Projects
+
+- **[🎯 Number Guessing Game →](https://shankar-uxcloud.github.io/Java-mini-projects/number-guessing/)**
+- **[🎓 Student Grade Calculator →](https://shankar-uxcloud.github.io/Java-mini-projects/student-grade-calculator/)**
+- **[🏧 ATM Interface →](https://shankar-uxcloud.github.io/Java-mini-projects/atm/)**
+- **[💱 Currency Converter →](https://shankar-uxcloud.github.io/Java-mini-projects/currency-converter/)**
+- **[🔐 Password Generator →](https://shankar-uxcloud.github.io/Java-mini-projects/password-generator/)**
+
+## 💻 Source Code
+
+- **[Number Guessing Game](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/Number%20guessing%20game)**
+- **[Student Grade Calculator](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/student%20grade%20calculator)**
+- **[ATM Interface](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/ATM%20Interface)**
+- **[Currency Converter](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/Currency%20Converter)**
+- **[Password Generator](https://github.com/shankar-uxcloud/Java-mini-projects/tree/main/Password%20Generator)**
+
+---
+
+# ✅ Project Checklist
+
+- [x] Number Guessing Game
+- [x] Student Grade Calculator
+- [x] ATM Interface
+- [x] Currency Converter
+- [x] Password Generator
+- [x] Java source implementations
+- [x] Web implementations
+- [x] React ATM implementation
+- [x] Responsive interfaces
+- [x] GitHub repository
+- [x] GitHub Pages deployment
+- [x] GitHub Actions workflow
+- [x] Portfolio dashboard
+- [x] Project documentation
+
+---
+
+# 🔮 Future Improvements
+
+The following are **potential future enhancements**, not claims about the current implementation:
+
+- Live currency exchange-rate API
+- Persistent backend storage
+- User authentication
+- Database integration
+- Automated unit testing
+- More React applications
+- Advanced accessibility improvements
+- Progressive Web App support
+- Enhanced analytics
+- More advanced Java projects
+
+---
+
+# ⚡ Quick Start
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/shankar-uxcloud/Java-mini-projects.git
+cd Java-mini-projects
+```
+
+## Run Any Java Project
+
+Navigate to its Java version directory and compile the corresponding `.java` file.
+
+Example:
+
+```bash
+cd "Number guessing game/java version"
+javac numbergame.java
+java NumberGame
+```
+
+## Explore the Live Portfolio
+
+**[🚀 Open Live Portfolio Dashboard](https://shankar-uxcloud.github.io/Java-mini-projects/)**
+
+---
+
+# 🔧 Development Environment
+
+```text
+Operating System : Windows
+Language         : Java
+Frontend         : HTML / CSS / JavaScript
+Framework        : React
+Build Tool       : Vite
+Package Manager  : npm
+Version Control  : Git
+Repository       : GitHub
+CI/CD            : GitHub Actions
+Hosting          : GitHub Pages
+```
+
+---
+
+# 🔀 Version Control Workflow
+
+```text
+Create / Modify
+      ↓
+Test Locally
+      ↓
+Review Changes
+      ↓
+git add
+      ↓
+git commit
+      ↓
+git push
+      ↓
+GitHub Actions
+      ↓
+Deployment
+```
+
+Useful commands:
+
+```bash
+git status
+git add .
+git commit -m "Update project"
+git push origin main
+```
+
+---
+
+# 📝 Documentation Philosophy
+
+Good projects should communicate more than just source code.
+
+This README documents:
+
+- What each project does
+- What technologies are used
+- How to run the applications
+- What concepts were practiced
+- Where the live demos are hosted
+- How the portfolio is structured
+- How deployment works
+- What could be improved in the future
+
+The objective is to make the repository understandable to another developer, recruiter, mentor, or reviewer.
+
+---
+
+# 🎓 Internship Summary
+
+**Java Programming Internship — SAM AI Technologies**
+
+This repository represents the practical project work completed during the internship.
+
+The projects cover a progression from fundamental Java programming to web development and deployment.
+
+```text
+Java Fundamentals
+        +
+Problem Solving
+        +
+Web Development
+        +
+React
+        +
+Git / GitHub
+        +
+CI/CD
+        +
+Deployment
+        =
+Complete Learning Portfolio
+```
+
+---
+
+# 📈 Technical Growth
+
+### ☕ Java
+
+Built a foundation in Java syntax, control flow, methods, arrays, input handling, calculations, randomization, and validation.
+
+### 🧠 Problem Solving
+
+Converted requirements into working program logic.
+
+### 🌐 Web Development
+
+Translated programming concepts into interactive browser applications.
+
+### ⚛️ React
+
+Applied component-based development to the ATM application.
+
+### 🔧 Git & GitHub
+
+Used version control to organize and publish the work.
+
+### 🚀 Deployment
+
+Configured automated deployment using GitHub Actions and GitHub Pages.
+
+### 📄 Documentation
+
+Created a centralized portfolio README and dashboard to communicate the work professionally.
+
+---
+
+# 💎 Core Takeaways
+
+### ☕ Java
+
+Strong practice with programming fundamentals and console applications.
+
+### 🧠 Problem Solving
+
+Practical experience turning requirements into executable logic.
+
+### 🌐 Web Development
+
+Experience transforming Java concepts into interactive web experiences.
+
+### ⚛️ React
+
+Hands-on exposure to component-based frontend development.
+
+### 🔧 Git & GitHub
+
+Experience with version control and repository management.
+
+### 🚀 Deployment
+
+Experience publishing applications using GitHub Pages and GitHub Actions.
+
+### 📄 Documentation
+
+Experience presenting technical projects in a structured portfolio.
+
+---
+
+# 🌟 Final Portfolio
+
+All five projects are available from one central dashboard.
+
+## 🚀 [OPEN JAVA MINI PROJECTS](https://shankar-uxcloud.github.io/Java-mini-projects/)
+
+### 🎯 Number Guessing Game
+
+**[Launch Working Application →](https://shankar-uxcloud.github.io/Java-mini-projects/number-guessing/)**
+
+### 🎓 Student Grade Calculator
+
+**[Launch Working Application →](https://shankar-uxcloud.github.io/Java-mini-projects/student-grade-calculator/)**
+
+### 🏧 ATM Interface
+
+**[Launch Working Application →](https://shankar-uxcloud.github.io/Java-mini-projects/atm/)**
+
+### 💱 Currency Converter
+
+**[Launch Working Application →](https://shankar-uxcloud.github.io/Java-mini-projects/currency-converter/)**
+
+### 🔐 Password Generator
+
+**[Launch Working Application →](https://shankar-uxcloud.github.io/Java-mini-projects/password-generator/)**
+
+---
+
+# 👨‍💻 Author
+
+**Shankar Sourav**
+
+Java Programming Intern  
+SAM AI Technologies
+
+### GitHub
+
+**[github.com/shankar-uxcloud](https://github.com/shankar-uxcloud)**
+
+### Repository
+
+**[Java Mini Projects](https://github.com/shankar-uxcloud/Java-mini-projects)**
+
+---
+
+# ⭐ Final Note
+
+This repository represents a practical learning journey from **Java fundamentals to deployed web applications**.
+
+Every project was an opportunity to **practice, test, improve, publish, and document**.
+
+<p align="center">
+
+### ☕ Learn → Build → Test → Deploy → Document
+
+**Thanks for visiting! 🚀**
+
+</p>
