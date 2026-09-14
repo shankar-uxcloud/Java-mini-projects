@@ -10,7 +10,7 @@ From **Core Java → Console Applications → Web Applications → React → Git
 
 <p>
   <a href="https://shankar-uxcloud.github.io/Java-mini-projects/">
-    <img src="https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Dashboard-111827?style=for-the-badge" alt="Live Portfolio">
+  
   </a>
   <a href="https://github.com/shankar-uxcloud/Java-mini-projects">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
