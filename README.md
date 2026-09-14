@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ☕ Java Mini Projects
 
 <p align="center">
@@ -15,7 +14,6 @@ From **Core Java → Console Applications → Web Applications → React → Git
 🚀 Java Programming Internship Portfolio
 SAM AI Technologies
 From Core Java → Console Applications → Web Applications → React → GitHub Actions → Live Deployment
->>>>>>> 9492290 (Fix dashboard encoding and update README)
 <p>
   <a href="https://shankar-uxcloud.github.io/Java-mini-projects/">
     <img src="https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Dashboard-111827?style=for-the-badge" alt="Live Portfolio">
