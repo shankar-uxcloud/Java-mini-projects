@@ -81,7 +81,7 @@ The live dashboard provides a centralized interface for exploring all five proje
 | ⚛️ React Applications | **1** |
 | 🚀 Live Deployments | **5** |
 | 🔄 CI/CD | **GitHub Actions** |
-| 📄 Internship Focus | **Java Programming** |
+| 📄 Focus | **Java Programming** |
 | 🎯 Portfolio Dashboard | **Available** |
 
 ---
